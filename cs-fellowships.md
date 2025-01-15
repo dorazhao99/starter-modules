@@ -7,19 +7,6 @@
 | Attribution | Initial list comes from @chinasatokolo |
 
 Some of the opportunities have been deprecated. Check if they are still available. 
-## Awards
-| Name          | Deadline      | Masters/PhD  |
-| - |:-:| -:|
-| [ACM Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/nominations) | Rolling | PhD |
-| [ACM SIGCHI Outstanding Dissertation Award](https://sigchi.org/awards/dissertation-award/) | December | PhD |
-| [ACM SIGKDD Outstanding Dissertation Award](https://kdd.org/awards/sigkdd-dissertation-award) | Rolling | PhD |
-| [Ackermann Award](https://www.eacsl.org/ackermann-award/) | July | PhD |
-| [EATCS Distinguished Dissertation Award](https://eatcs.org/index.php/dissertation-award) | December | PhD |
-| [IEEE ITS Best Dissertation Award](https://ieee-itss.org/awards/best-dissertation/) | June | PhD |
-| [John C. Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/) | January | PhD |
-| [Nature Research Awards for Inspiring and Innovating Science](https://www.nature.com/collections/jcpghfmqlz/applynow) | June | Post-PhD |
-| [Rising Stars in Machine Learning](https://ml.umd.edu/rising-stars) | August | PhD |
-| [WAGS/ProQuest Innovation in Technology Award](https://wagsonline.org/technology-award-announcement/) | October | PhD |
 
 ## Scholarships
 | Name          | Deadline      | Masters/PhD  |
