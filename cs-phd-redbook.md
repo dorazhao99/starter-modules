@@ -306,14 +306,14 @@ you to register for a
 graduation quarter which costs very little (\$100 plus fees). If you've saved up some
 money and really are on your last quarter, you can take this option. If it proves not to be your last quarter, you can apply (or reapply) for TGR status.
 
-## Breadth Requirement
+### Breadth Requirement
 
 students are required to pass the Breadth Requirements. 
 
 %Focus on completing the Breadth Requirements, along with finding an advisor, in your first year. You must complete your Breadth Requirements by the end of your second year in order to file for candidacy.
 
 
-\section{\secso{How to do Research}}
+## How to do Research
 
 An undergraduate degree is about doing well in classes: someone tells you
 what to do and how to do it. In graduate school, you are solely
@@ -326,13 +326,13 @@ What follows are tips on how to avoid this uncertainty. Note that these tips
 are rules of thumb and it is really up to you and your advisor to decide what
 research looks like for you.
 
-\subsection{Read Papers}
+### Read Papers
 
-It is critical to read {\it lots} of papers in your area, and specifically on
+It is critical to read lots of papers in your area, and specifically on
 your research topic. What if you don't like to read papers? Then, at
-the very least, {\it skim} lots of papers.
+the very least, skim lots of papers.
 
-\subsection{Talk With People}
+### Talk With People
 
 Conversations make you smarter. They help you look at problems from different
 perspectives, hone your arguments, refine your terminology, explore alternative
@@ -345,14 +345,14 @@ as you are talking.
 Bounce your ideas off other colleagues. If they like your work, great. If not,
 ask them why and improve your work based on their feedback.
 
-\subsection{Be Goal-Oriented}
+### Be Goal-Oriented
 
 When deciding on research projects, be goal-oriented. Do not waste your time
 working on projects that lead nowhere. Ask yourself, ``Will this project lead to
 a paper? Which conference will I submit it to? Is it a chapter in my
 thesis?'' Do not work on a project simply because it's cool.
 
-\subsection{Set Deliverables and Discuss with your Advisor}
+### Set Deliverables and Discuss with your Advisor
 
 A project will span weeks, if not months or years. It is easy to become
 distracted or discouraged. Set weekly goals. Turn these goals into
@@ -360,18 +360,18 @@ deliverables that you can share with your advisor and colleagues. If
 you're going the wrong direction, the early feedback will help you get back on
 track.
 
-\subsection{Time Management and Procrastination}
+### Time Management and Procrastination
 Some (read:\ many) of us find it challenging to manage our schedules. If you really
 need to get work done, consider techniques to avoid wasting time. If you close
 your office door or wear headphones, fewer folks will bother you. If your office
 is too loud, consider switching offices or working in the campus libraries.
 
 
-\section{\secso{Quals}}
+## Quals
 
 Quals is the milestone exam that tests the ``depth'' of your knowledge in your area. Some
 folks take it their second year, some take it their third. Ideally, you should
-pass quals on your first attempt. Officially, it's 100\% {\sc ok} to fail
+pass quals on your first attempt. Officially, it's 100\% OK to fail
 your first time and then pass your second. It's possible but rare to take quals three
 times, but your advisor better be loving your research, and you will go through
 a petition process.  In the past ten years, no one has taken quals more than
@@ -380,42 +380,39 @@ Students have left with a Masters after failing twice; other students have
 passed on the third try, generally based on whether their advisor likes what they
 are doing.
 
-%In general, orals are ``better'' than written exams; the questioner can tease
-%out the answers, whereas on a written exam there is no back-and-forth. Form
-%study groups and try your best to pass on the first try.
+In general, orals are ``better'' than written exams; the questioner can tease
+out the answers, whereas on a written exam there is no back-and-forth. Form
+study groups and try your best to pass on the first try.
 
 
-\section{\secso{The Thesis}}
+## The Thesis
 
 Theses vary between disciplines and even advisors. Your thesis should be
 modeled after others in your area; grab some examples and discuss the structure
 with your advisor. One rule of thumb is to have a few papers on a single topic
-(approximately 3 in Graphics or {\sc hci}, for example), which then become the
+(approximately 3 in Graphics or HCI, for example), which then become the
 main chapters of your thesis. One strategy for pushing ahead on your thesis is
 to present your advisor with a proposed outline. This allows the both of you to
 discuss what, if anything, may be missing from your research and can allow you
 to target your work so that you can graduate in a timely manner.
 
-\subsection{Committee}
+### Committee
 
 You will need a thesis committee for your Thesis Proposal, your Oral Defense, and to read and sign your thesis. Pick committee members who will provide timely feedback.  If possible, meet with them somewhat regularly to update them on your progress to ensure everyone is on the same page. Also, make sure your reading committee will have time to read and sign your thesis.
 
-\subsection{Proposal}
-
+### Proposal
 Your Thesis Proposal is a great time to formally solicite feedback from your committee. Proposing earlier rather than later can be extremely helpful.  You don't want your committee to be surprised at your defense about the direction you are taking for your thesis!  It is better to hear objections 12 months before your defense than the day of.
 
-\subsection{Defense}
-
+### Defense
 Your advisor shouldn't let you schedule a defense until you are ready. Most
 people defend after having written some (but not all) of their thesis. Schedule
 your orals two to three months in advance. Don't forget to bring food. Catering
 means one less thing to worry about.
 
 
-\subsection{Writing}
-
+### Writing
 Thesis lengths vary from under a hundred pages to as long as several hundred pages. Some
-advisors are comfortable with a ``stapled thesis,'' which is merely the papers
+advisors are comfortable with a "stapled thesis," which is merely the papers
 you've written with transition paragraphs between them. Other advisors
 want the thesis to stand on its own as a treatise on a subject; this
 requires rewriting.
@@ -423,34 +420,30 @@ requires rewriting.
 This may also be a good thing to find out about when choosing an advisor.
 
 
-\chapter{Health and Happiness}
+# Health and Happiness
 
-\section{\secso{You Are An Asset}}
+## You Are An Asset
 
-A graduate student costs more than \$100{\sc k/yr} to fund, including tuition,
+A graduate student costs more than $100k/yr to fund, including tuition,
 stipend, office space, computing equipment, and travel expenses. You are an
 enormous investment. A graduate student who is unable to do research (due to
-{\sc rsi}, depression, or other physical or mental health issues) is a waste of that
+RSI, depression, or other physical or mental health issues) is a waste of that
 money. Your advisor is likely to accommodate your needs where your well-being is
 at stake. Recognize your value, and put your health above all else.
 
-\section{\secso{Mental Health}}
+## Mental Health
 
-A \phd\ can be a high-stress, low-social-interaction environment that can lead
+A PhD can be a high-stress, low-social-interaction environment that can lead
 to a variety of mental issues, including anxiety and depression.
 
 Keep in mind that if you're stressed or feeling worried about the uncertainty
 of grad school, other students are as well. You're not alone. Talk to
 other students about it, it will make you feel better.
-Counseling and Psychological Services ({\sc caps}), an arm of Vaden
+Counseling and Psychological Services (CAPs), an arm of Vaden
 Health Center, can provide additional help with mental health.
 
-%The \phd\ Comic Strip has a forum populated with graduate students
-%from around the world, which can be a great source of support:
-%
-%http://www.phdcomics.com/proceedings/
 
-\section{\secso{Physical Health}}
+## Physical Health
 
 Although we aren't medical doctors, we think that regular exercise is great for
 reducing stress (and much more!). Take advantage of the Stanford athletic
@@ -459,24 +452,26 @@ climbing, yoga, golf, volleyball. You also happen to be in the Bay Area:
 there is skiing a few hours away, surfing in Santa Cruz, hiking and
 climbing in Yosemite, and good weather year round.
 
+Stanford PhD students should be covered under CardinalCare for health insurance. 
+
 Eat well. The free food around Gates is not
 the healthiest.
 
 Speaking of free food, you should certainly subscribe to the
-\verb+gates-food@lists+ email list. Whenever free food is lying around Gates,
+cs-phd-freefood Slack. Whenever free food is lying around Gates,
 someone emails this list with a description. Remember to bring your own plate.
 
-\subsection{RSI}
+## RSI
 
-You probably do a lot of typing, and you may develop {\sc rsi}.
+You probably do a lot of typing, and you may develop RSI.
 Educate yourself about ergonomics. Consider getting an ergonomic keyboard
 (Kinesis Advantage or Kinesis Maxim or Goldtouch). Some students use Workrave which monitors typing
 and mousing behavior and reminds you to take breaks every once in a while.
-Students report that this has significantly improved their {\sc rsi}. The
+Students report that this has significantly improved their RSI. The
 default settings are appropriate if you're already experiencing pain (obey the
 limits set by the program). If you just want to be preventative, set it to be less strict.
 
-\section{\secso{Activities and Social Life}}
+## Activities and Social Life
 
 Join activities to meet people, gain life experiences, add
 structure to your life, and maintain good physical and mental health.
@@ -503,25 +498,25 @@ know how to help you.
 
 Start meeting people early: you will only grow busier.
 
-\chapter{Department}
-\section{\secso{Paperwork and Pitfalls}}
+# Department
+## Paperwork and Pitfalls
 There are several types of paperwork that matter. They generally deal with
-getting paid and completing your \phd\ milestones.
+getting paid and completing your PhD\ milestones.
 
 When you pass your Breadth Requirements, file your candidacy form so you get a
 pay increase. If you have some strange advising situation (e.g., your advisor is
-not natively {\sc cs} or has a joint appointment with another department),
+not natively CS or has a joint appointment with another department),
 make sure it goes through.
 
-Before each quarter, secure funding. If you are {\sc ra}ing,
+Before each quarter, secure funding. If you are RAing,
 sign a form with your advisor's admin.
 
 After you do your Thesis Proposal, there is a Thesis Proposal form.
 
-When you near the end of your \phd, fill out a form for
+When you near the end of your PhD, fill out a form for
 your Reading Committee, and one to schedule your Oral Examination.
 
-During the last year, you can go {\sc tgr} to save your lab money.
+During the last year, you can go TGR to save your lab money.
 
 Many of the forms are at the addresses below:
 
@@ -529,9 +524,9 @@ http://cs.stanford.edu/academics/phd/graduate-student-forms
 
 http://studentaffairs.stanford.edu/registrar/forms/grad
 
-\chapter{Life After Grad School}
+# Life After Grad School
 
-\section{\secso{Doing Something Else}}
+## Doing Something Else}
 
 About 7.5\% of \phd\ students drop out to pursue other interests. Some leave
 with a Master's degree, others without. There are legitimate reasons for each
@@ -548,7 +543,7 @@ program, have a conversation about your decision with someone in the Student
 Services office (Gates 196). There might be other options for you to consider.
 If you do leave, try not to burn any bridges.
 
-\section{\secso{Working in Industry}}
+## Working in Industry
 
 The Computer Forum (forum.stanford.edu) is a great in-house resource for
 finding a job in industry. The Forum is a group of businesses interested in
@@ -556,17 +551,17 @@ supporting the CS department, probably because they get primo access to hires
 from Stanford. Every year, they host career fairs, hold informative lunches with
 local and global companies, and sponsor career-building events.
 
-\section{\secso{Becoming Faculty}}
+## Becoming Faculty
 
-At most 15-20\% Stanford \phd\ graduates go on to faculty careers.  This is a
+At most 15-20\% Stanford PhD graduates go on to faculty careers.  This is a
 lower percentage than at other schools because of Stanford's strong industry
 ties. As with much of grad school, successfully preparing for and landing a
 faculty position won't just happen: you must take the initiative.
 
-\subsection{Kinds of Faculty Positions}
+### Kinds of Faculty Positions
 Only about 5\% of Stanford \phd s (one or two students in your entering class) will end up
 in a job that resembles their
-advisor's tenure track position at a top-5 {\sc cs} department. Others will end
+advisor's tenure track position at a top-5 CS department. Others will end
 up lower on the ranking totem-pole or in other kinds of academic jobs. If you
 are interested in academia, you should think about the basis for your interest.
 Is it doing research?  Freedom to follow your interests?  Advising students?
@@ -574,20 +569,15 @@ Teaching?  Working with smart people? Or just the university environment?
 
 There is a pecking-order of prestige in academia:
 
-\begin{enumerate}
-\setlength{\itemsep}{1pt}
-\setlength{\parskip}{0pt}
-\setlength{\parsep}{0pt}
-\item tenure-track faculty at a top research school
-\item tenure-track faculty at other research universities
-\item teaching-centered academic jobs
-\begin{itemize}
-\item teaching faculty at a research school (non-tenure)
-\item tenure-track faculty at a liberal arts college
-\end{itemize}
-\item non-faculty research staff
-\item adjunct faculty
-\end{enumerate}
+1. tenure-track faculty at a top research school
+2. tenure-track faculty at other research universities
+3. teaching-centered academic jobs
+
+1. teaching faculty at a research school (non-tenure)
+2. tenure-track faculty at a liberal arts college
+
+1. non-faculty research staff
+2. adjunct faculty
 
 Higher up in this pecking order, the jobs are more demanding, harder to get,
 and pay better.  You also get better students and have an easier time getting
@@ -597,52 +587,32 @@ to do. If you are unsure what you want, aim high.  It is generally easy
 to switch from a research-centered career to a teaching-centered career, and to
 slide down the totem pole within either domain, but it is extremely hard to
 move the other way once your career has begun.  Most academia-bound Stanford
-\phd s end up at number 2, with a few stars hitting number 1 and a few deciding
+PhD's end up at number 2, with a few stars hitting number 1 and a few deciding
 to focus on teaching.  Avoid an adjunct career.
 
-\subsection{Preparing}
+### Preparing
 
 Whatever sort of academic career you're heading for, think of your
 time in grad school as an apprenticeship. Seek out chances to do what faculty do.
 There are many such opportunities:
 
-\begin{itemize}
-\item Help your advisor write grants.  Learn how funding works.
-\item Recruit junior grad students or undergrads for your project and act as a
-mentor for them. Participate in {\sc curis}, which pairs
+- Help your advisor write grants.  Learn how funding works.
+- Recruit junior grad students or undergrads for your project and act as a
+mentor for them. Participate in CURIS which pairs
 undergrads with graduate students during the summer. If you get a good
 undergrad and you have a well-defined project, they can be extremely helpful.
-
-\item Submit papers, attend conferences, and give lots of talks.
-
-\item Network with other researchers at conferences and when they come to give
+- Submit papers, attend conferences, and give lots of talks.
+- Network with other researchers at conferences and when they come to give
 talks at Stanford.
-
-\item Choose {\sc ta}ships where you can help write tests or assignments and
+- Choose TAships where you can help write tests or assignments and
 give lectures.
-
-\item Be a teaching fellow and teach a whole class.
-
-\item Earn the department's Distinction in Teaching.
-\end{itemize}
+- Be a teaching fellow and teach a whole class.
+- Earn the department's Distinction in Teaching.
 
 There are several specific resources available at Stanford:
 
-\begin{itemize}
-\item The Career Development Center offers a series of talks on academic
+- The Career Development Center offers a series of talks on academic
 careers.
-
-\item The Center for Teaching and Learning has lots of talks and resources for
+- The Center for Teaching and Learning has lots of talks and resources for
 becoming a better teacher.
-\end{itemize}
 
-\subsection{Readings}
-{\it The Ph.D. Grind: A Ph.D. Student Memoir}, by Philip J. Guo. A thorough account of a former Stanford CS Ph.D. student's experience with much practical advice. Available as a free ebook at the author's website.\\*
-\verb+http://www.pgbovine.net/+\\*
-
-{\it PhorbiDden PhooD: Real Secrets to Mastering the PhD Adventure}, by Chand T. John. Account by another former Ph.D. student, also with much advice. Also available as a free ebook.\\*
-\verb+https://sites.google.com/site+\\*
-\verb+/chandtjohn/phorbidden-phood+\\*
-
-{\it Tomorrow's Professor}, by Rick Reis. A very good book on what to do while
-you're in grad school in order to land a faculty job.
