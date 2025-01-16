@@ -1,4 +1,4 @@
-# Giving HCI Research Elevator Pitch 
+# Research Elevator Pitches
 
 ### Tips
 - The goal of an elevator pitch from the faculty-side / person who receives the pitch is to have something they can "anchor on" that identifies the person (author of a paper, person that does a certain thing)
