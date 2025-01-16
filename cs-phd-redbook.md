@@ -1,4 +1,8 @@
 # Stanford CS PhD Redbook
+## Details 
+|  Key | Value|
+| ------------- | ------------- |
+| Description | Unofficial guide to being a CS PhD at Stanford |
 
 ## The Basics
 
