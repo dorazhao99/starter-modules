@@ -8,7 +8,7 @@
 - Start with a high-level description of your work (e.g., "I do social computing design work") and then focus on a project (e.g., something specific like what are the first couple paragraphs of what the paper intro will look like)
 - Good to think about your impact-maximizing project (what do you want people to remember you for in terms of research either something).
 - Don't weave all your research together, just pick a thing
-- 
+  
 
 ### Rough Template of a Pitch 
 ```
