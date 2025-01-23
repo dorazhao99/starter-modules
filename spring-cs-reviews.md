@@ -1,5 +1,8 @@
 # CS Spring 24-25 Reviews 
-
+## Details 
+|  Key | Value|
+| ------------- | ------------- |
+| Description | CS Courses offered Spring 24-25 with summarized reviews |
 #### CS 1U: Practical Unix 1 units
 > This course is great for learning UNIX and command line navigation, with valuable information and a light workload. Students appreciate the high-quality videos and flexible, self-paced nature of the course, but some wish for more interaction and practice exercises. Overall, the course is recommended for those interested in learning UNIX basics, with the caveat that self-motivation and accountability are key to getting the most out of it.
 #### CS 12SI: Spatial Computing Workshop 1 units
