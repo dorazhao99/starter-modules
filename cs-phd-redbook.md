@@ -1,4 +1,4 @@
-# Stanford CS PhD Redbook
+# Stanford CS PhD
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
