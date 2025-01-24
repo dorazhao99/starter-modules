@@ -2,7 +2,7 @@
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
-| Description | Unofficial guide to being a CS PhD at Stanford |
+| Description | Guide to being a CS PhD at Stanford |
 
 ## The Basics
 
@@ -177,7 +177,6 @@ involve an unknown number of graduate students, but usually produce a finite
 number of theses. If you get involved in one of these projects,
 discuss what part of the project can be used for your thesis. If that can't be
 determined within the first few quarters, you may want to find a new project.
-\end{itemize}
 
 ## Teaching
 One requirement of the PhD program at Stanford is to complete at least 4
@@ -242,9 +241,9 @@ nearly the same amount of work as a 50% CA, which fully funds you for
 the quarter. As a 25% CA, you'll need to find another source of 25\%
 funding (possibly a 25% RA with a professor who is not your advisor).
 
-### 50\% vs. 25\% RA
+### 50% vs. 25% RA
 
-Most RAships are 50\%. You are usually an RA} under your
+Most RAships are 50%. You are usually an RA under your
 advisor. Sometimes, people take an RA position with someone else
 to have support.  If this happens to you, minimize the impact
 on your research by finding an RA position that is somewhat related to
@@ -311,10 +310,62 @@ graduation quarter which costs very little (\$100 plus fees). If you've saved up
 money and really are on your last quarter, you can take this option. If it proves not to be your last quarter, you can apply (or reapply) for TGR status.
 
 ### Breadth Requirement
+- The Breadth course requirement will be three (3) 3-unit total courses from four (4) different predefined areas (cannot be two (2) from the same area).
+- Students need to pass the courses with grade B+ or higher.
+- Breadth courses cannot be waived (these courses must be taken while in the PhD program).
+- Three foundation/breadth requirements need to be completed by the end of the second year. All courses need to be completed by the end of the third year. Any deviation from this timeline needs to be approved ahead of time by the student advisor and the director of the PhD program.
 
-students are required to pass the Breadth Requirements. 
+#### Breadth Areas 
+##### Formal Foundations
+Courses in this group emphasize mathematics and formal reasoning as it applies to foundational questions about computation. Available courses:
+- CS166, CS168, CS261, CS263, CS264, CS265
+- CS154, CS254, CS254B, CS354
+- CS205L, CS334A, EE276, EE364A, EE364B, CS369O
+- CS225, CS229M, CS328
+- CS157, Phil251, CS257, CS258
+- CS250, CS255, CS256, CS259Q, CS269I, CS355, CS359D 
 
-%Focus on completing the Breadth Requirements, along with finding an advisor, in your first year. You must complete your Breadth Requirements by the end of your second year in order to file for candidacy.
+##### Learning and Modeling
+Courses in this group seek to build models of observed phenomena. They emphasize building these models from data, with the goal of predicting, classifying, or otherwise structuring observations. Available courses:
+- CS221, CS222, CS223A, CS224N, CS224R, CS224S, CS224U, CS 224V, CS224W, CS227B, CS228, CS229, CS229M, CS231A, CS231N, CS233, CS234, CS236, CS237A, CS237B, CS281
+- CS205L, CS230, CS330, CS331, CS332, CS333
+- CS326, CS329A, CS329D, CS329H, CS329T CS329X, CS336
+- CS248A, CS248B, CS348A, CS348B, CS348C, CS348E, CS348I, CS348N
+- CS271, CS272, CS273A, CS273B, CS274, CS279, CS371, CS373, CS375
+
+##### Systems
+Courses in this group explore the construction of computing artifacts that meet design constraints or requirements. They emphasize not only what we build, but how we build it and the challenges in doing so. Problems in this area often, but not always, include performance (speed, memory, energy), scalability, tradeoffs, complex software, and considering the quality of the artifact itself in addition to its capabilities. Available courses:
+- EE180, EE282, EE382E, CS149, CS316
+- CS112, CS140E, CS212, CS217, CS229S, CS 240, CS240LX
+- CS143, CS243
+- CS144, CS244, CS244B
+- CS145, CS245, CS246, CS251
+- CS155, CS356
+- CS242, CS358
+- CS249I
+- CS348K
+
+##### People and Society
+Courses in this group examine how computing and technology affect and interact with humans and societies, seeking to place artifacts in the context in which they are used. In particular, this area will include courses that deal with the societal impact of computation and HCI courses. Available courses:
+- CS 125, 147, 148, 152, 181, 182, 194H, 206, 207, 224C, 247 A/B/C/... SERIES, 256, 269I, 278, 281, 293, 323, 324H, 329H, 329R, 329T, 329X, 337, 347, 377 A/B/C/... SERIES, 384, 448B, 470
+- AMSTUD 145
+- ANTHRO 132D
+- BIOMEDIN 215, 223
+- BIOS 244
+- COMM 254, 266, 286, 324 
+- DESIGN 255
+- EARTHSYS 213
+- EDUC 315A, 484
+- ENGLISH 184D
+- EPI 220
+- HISTORY 244F
+- INTLPOL 362
+- LAW 4039, 4046, 7073, 7102, 7117, 7521, 807Z
+- ME 177
+- MS&E 193, 231, 234, 254
+- POLISCI 150A
+- PUBLPOL 103F, 353A, 353B
+
 
 
 ## How to do Research
@@ -539,7 +590,7 @@ future, you need a \phd. However, you may be unable to work with your advisor,
 unable to find an advisor to work with, or disillusioned with the research
 process.  There is an opportunity cost to staying in graduate school: we can
 make very good salaries working in industry. (If you estimate a salary as
-\$100{\sc k} and a graduate student stipend as \$30{\sc k}, \$70{\sc k} is what
+$100k and a graduate student stipend as $30k, \$70k is what
 you're ``giving up'' annually to be here.) There is also a cost to leaving
 graduate school. Be clear with yourself about why you are still in the program
 or why you want to leave. Before you make a final decision about leaving the
@@ -557,7 +608,7 @@ local and global companies, and sponsor career-building events.
 
 ## Becoming Faculty
 
-At most 15-20\% Stanford PhD graduates go on to faculty careers.  This is a
+At most 15-20% Stanford PhD graduates go on to faculty careers.  This is a
 lower percentage than at other schools because of Stanford's strong industry
 ties. As with much of grad school, successfully preparing for and landing a
 faculty position won't just happen: you must take the initiative.
