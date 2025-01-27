@@ -1,4 +1,4 @@
-# CoDa Building 
+# The CoDa Building at Stanford 
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
