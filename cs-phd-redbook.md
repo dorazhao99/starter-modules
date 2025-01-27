@@ -1,8 +1,8 @@
-# Stanford CS PhD
+# Being a CS PhD at Stanford
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
-| Description | Guide to being a CS PhD at Stanford |
+| Description | Unofficial guide to being a CS PhD at Stanford |
 
 ## The Basics
 
