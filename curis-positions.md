@@ -1,32 +1,34 @@
-# CURIS Positions 2024-2025
+# CURIS Summer 2025
 
 ## Interdisciplinary K-12 CS Education Modules
 > Only 57.5% of U.S. public high schools offer at least one foundational computer science (CS) course. Schools serving economically disadvantaged students face barriers in establishing CS programs. This ongoing project tis to create short, 1-2 week interdisciplinary modules that integrate foundational CS concepts with another subject, preferably at the middle and high school levels. I.e., given a non-CS subject at a high school (e.g., History, English, Math, Chemistry, etc.), we are creating teaching modules that will help teach CS concepts in the context of the other course.
+
 Compensation Type: paid
 Contact Professor: Christopher Gregg
 Field of Research: software_engineering
-### Prereqs
+Prereqs
 CS106A
-### Recommended Background
+Recommended Background
 This project is going to involve curriculum development, so you should be willing to draft interesting and engaging materials for a middle school or high school class. There is also opportunity to work on the web page for the courses, as well.
-### Recommended Background
+Recommended Background
 This project is going to involve curriculum development, so you should be willing to draft interesting and engaging materials for a middle school or high school class. There is also opportunity to work on the web page for the courses, as well.
-### Office Hours
+Office Hours
 Tuesdays 2:30pm-3:30pm
 
 
 ## Complexity Theory
 > Research in complexity theory
+
 Compensation Type: paid
 Contact Professor: Li-Yang Tan
 Field of Research: theory_of_computation
-### Prereqs
+Prereqs
 254 and 254B
-### Recommended Background
+Recommended Background
 254, 254B, 261, and 265
-### Recommended Background
+Recommended Background
 254, 254B, 261, and 265
-### Office Hours
+Office Hours
 By appointment
 
 
@@ -34,16 +36,17 @@ By appointment
 > In the evolving domain of robotic dexterous manipulation, the absence of tactile feedback has long been a bottleneck, hindering the robot's ability to perform contact-rich in-hand manipulations with the finesse and adaptability exhibited by the human hand. This project investigates the integration of state-of-the-art tactile sensors (e.g. GelSight, DIGIT360) with multi-finger hands (e.g. LEAP hand, Allegro hand) for tactile contact sensing and pose estimation. The goals of this project are:
 1. Establish a tactile-enabled dexterous hand platform that is durable and affordable 
 2. Apply algorithms developed at TML to demonstration tactile-enabled dexterous in-hand manipulation
+
 Compensation Type: paid
 Contact Professor: Karen Liu
 Field of Research: robotics
-### Prereqs
+Prereqs
 Experience in programming and CAD.
-### Recommended Background
+Recommended Background
 Familiarity with concepts from robotics (CS123, CS223A), dynamics and control (ME161, ENG105), optimization (EE364A).
-### Recommended Background
+Recommended Background
 Familiarity with concepts from robotics (CS123, CS223A), dynamics and control (ME161, ENG105), optimization (EE364A).
-### Office Hours
+Office Hours
 CoDa E344, by appointment.
 
 
@@ -60,38 +63,40 @@ This project focuses on developing an innovative hybrid approach to characterize
 - Collaborating with team members at Stanford and international partners to refine and validate computational approaches
 
 This research project offers a unique opportunity to work at the intersection of artificial intelligence, computational chemistry, and protein engineering, while contributing to the development of next-generation tools for protein discovery and design.
+
 Compensation Type: paid
 Contact Professor: Ron Dror
 Field of Research: biocomputation, scientific_computing, ai
-### Prereqs
+Prereqs
 - Strong background in Python and Shell/Bash programming
 - Familiarity with structural biology and quantum chemistry concepts
 - Familiarity with machine learning concepts
-### Recommended Background
+Recommended Background
 - Background in molecular dynamics (MD) and quantum mechanical simulations (QM/MM)
 - Background in machine learning model development and applications (including classical models, LLMs, GNNs)
 - Familiarity with parallelism and distributed systems
-### Recommended Background
+Recommended Background
 - Background in molecular dynamics (MD) and quantum mechanical simulations (QM/MM)
 - Background in machine learning model development and applications (including classical models, LLMs, GNNs)
 - Familiarity with parallelism and distributed systems
-### Office Hours
+Office Hours
 Feb 12-13, 8-9:30 AM, Zoom
 Feb 17, 2-4 PM, Zoom
 
 
 ## 4D World Modeling with Data-Driven 4D Objects
 > The 4D physical world we inhabit encompasses diverse types of 4D objects, including pets, animals, plants, and man-made objects. The ability to animate and manipulate these 4D objects is crucial for creating digital environments that mirror the real world with high levels of detail and realism. In this project, we study the important problem of developing representations for 4D objects from foundation models, video generative models, and in-the-wild data, with potential applications in robotics, embodied AI, and metaverse.
+
 Compensation Type: paid
 Contact Professor: Jiajun Wu
 Field of Research: ai, vision, robotics
-### Prereqs
+Prereqs
 CS231a/CS131/CS231n or similar
-### Recommended Background
+Recommended Background
 Stanford students interested in this research project should have a strong background in 3D Computer Vision (CS 231a/CS131/CS231n) and Machine Learning (CS236/CS229). Past experience in Computer Graphics / Robotics / CAD is a plus. Additionally, proficiency in programming (especially in PyTorch), familiarity with popular deep learning frameworks, and strong self-motivation are required.
-### Recommended Background
+Recommended Background
 Stanford students interested in this research project should have a strong background in 3D Computer Vision (CS 231a/CS131/CS231n) and Machine Learning (CS236/CS229). Past experience in Computer Graphics / Robotics / CAD is a plus. Additionally, proficiency in programming (especially in PyTorch), familiarity with popular deep learning frameworks, and strong self-motivation are required.
-### Office Hours
+Office Hours
 By appointment.
 
 
@@ -107,22 +112,23 @@ Potential projects include:
 2) Designing methods to measure and reduce the impact of biased training data on downstream clinical tasks.
 3) Improving retrieval-augmented generation (RAG) for clinical applications by building effective retrievers for longitudinal EHR data.
 4) Creating reliable methods for longitudinal EHR summarization to generate faithful and verifiable clinical summaries that support decision-making
+
 Compensation Type: paid
 Contact Professor: Emily Alsentzer
 Field of Research: biocomputation, ai
-### Prereqs
+Prereqs
 - Proficiency in Python and SQL
 - Background in machine learning (ML) and/or natural language processing (NLP) through coursework (e.g., CS224N, CS221, and/or CS229) or experience
 - Interest in tackling healthcare challenges through ML/NLP and enthusiasm for exploring clinical data and workflows
 - Ability to communicate findings and progress effectively
 - Self-driven mindset with an eagerness to actively seek out resources, ask questions, and advance project goals
-### Recommended Background
+Recommended Background
 - Prior experience with Huggingface libraries and/or finetuning language models 
 - Nice to have: Prior experience working with electronic health record (EHR) data
-### Recommended Background
+Recommended Background
 - Prior experience with Huggingface libraries and/or finetuning language models 
 - Nice to have: Prior experience working with electronic health record (EHR) data
-### Office Hours
+Office Hours
 By appointment
 
 
@@ -135,19 +141,20 @@ Relevant Works:
 - SUQL (https://arxiv.org/abs/2311.09818)
 - LOTUS (https://lotus-data.github.io/)
 - DocETL (https://www.docetl.org/)
+
 Compensation Type: paid
 Contact Professor: Monica Lam
 Field of Research: ai, software_engineering
-### Prereqs
+Prereqs
 CS 224N/CS224V or equivalent
 Software engineering skills
-### Recommended Background
+Recommended Background
 - Have experience with LLMs, including prompting and fine-tuning techniques.
 - Be prepared to tackle essential software engineering tasks such as debugging complex issues, managing edge cases, writing comprehensive tests, and developing a minimum viable product (MVP) frontend.
-### Recommended Background
+Recommended Background
 - Have experience with LLMs, including prompting and fine-tuning techniques.
 - Be prepared to tackle essential software engineering tasks such as debugging complex issues, managing edge cases, writing comprehensive tests, and developing a minimum viable product (MVP) frontend.
-### Office Hours
+Office Hours
 Thursday, 6 Feb, (2-3pm) - Gates 315
 Monday, 11 Feb, (2-3pm) - Gates 323
 or by appointment
@@ -155,16 +162,17 @@ or by appointment
 
 ## Generative Models
 > Generative models are a class of machine learning algorithms that learn to produce new data samples by capturing the underlying distribution of existing datasets. They have garnered significant attention due to their ability to generate text, code, images, video, etc. In this research project, we aim to investigate the theoretical foundations and practical implementations of next generation generative model architectures.
+
 Compensation Type: paid
 Contact Professor: Stefano Ermon
 Field of Research: ai, ai
-### Prereqs
+Prereqs
 Stanford students interested in this research project should have a strong grounding in foundational mathematics, particularly linear algebra, calculus, and probability theory. A solid understanding of core machine learning concepts—such as supervised learning, optimization, and neural network architectures—is also essential for diving into the nuances of generative models. Additionally, proficiency in programming (especially in Python) and familiarity with popular deep learning frameworks like PyTorch is required.
-### Recommended Background
+Recommended Background
 CS236
-### Recommended Background
+Recommended Background
 CS236
-### Office Hours
+Office Hours
 tbd
 
 
@@ -187,20 +195,21 @@ In coding agents, LLMs often receive feedback on generated code using tools like
 
 2) Automating Data Generation for Semantic Parsing:
 Creating a semantic parser for Genie currently requires a formal representation of user commands and well-curated few-shot examples. This process can be challenging for non-technical users unfamiliar with concepts like dialogue states and dialogue acts. This project aims to develop a system that simulates diverse user conversations and automatically generates dynamic examples to enhance Genie's semantic parser.
+
 Compensation Type: paid
 Contact Professor: Monica Lam
 Field of Research: ai, programming_languages, software_engineering
-### Prereqs
+Prereqs
 Completion of courses like CS 224N or CS 224V (or equivalent experience) is strongly recommended.
-### Recommended Background
+Recommended Background
 An ideal candidate would have experience or interest in the following areas: Semantic parsing, LLM agents, Conversational agents
 
 Be prepared to tackle essential software engineering tasks such as debugging complex issues, managing edge cases, writing comprehensive tests, and developing a minimum viable product (MVP) frontend.
-### Recommended Background
+Recommended Background
 An ideal candidate would have experience or interest in the following areas: Semantic parsing, LLM agents, Conversational agents
 
 Be prepared to tackle essential software engineering tasks such as debugging complex issues, managing edge cases, writing comprehensive tests, and developing a minimum viable product (MVP) frontend.
-### Office Hours
+Office Hours
 Thursday, 6 Feb, (2-3pm) - Gates 315
 Monday, 11 Feb, (2-3pm) - Gates 323
 or by appointment
@@ -220,26 +229,27 @@ Roles vary depending on project. Some will be more focused on design, others mor
 
 CONTACT
 If you are interested/have any questions, feel free to reach out to Jane E (ejane@stanford.edu). Please include your resume/CV, transcript, and a short paragraph explaining any relevant background/reason for interest in the project.
+
 Compensation Type: paid
 Contact Professor: James A Landay
 Field of Research: hci
-### Prereqs
+Prereqs
 Will have ideally taken CS147 or equivalent
-### Recommended Background
+Recommended Background
 The strongest applicants will have demonstrated interest in one or more of the following areas:
 - interest in the domain: healthcare (older adult physical health, caregivers, medical communication, sensors and privacy, etc.) or creativity (various art approaches, generative AI, etc.)
 - familiarity with running user studies
 - design thinking methods
 - qualitative data analysis
 - web dev/coding on new platforms
-### Recommended Background
+Recommended Background
 The strongest applicants will have demonstrated interest in one or more of the following areas:
 - interest in the domain: healthcare (older adult physical health, caregivers, medical communication, sensors and privacy, etc.) or creativity (various art approaches, generative AI, etc.)
 - familiarity with running user studies
 - design thinking methods
 - qualitative data analysis
 - web dev/coding on new platforms
-### Office Hours
+Office Hours
 Feb 10, 3-4pm in CoDa, location TBD (or by appointment through email if this doesn't work)
 
 
@@ -247,26 +257,27 @@ Feb 10, 3-4pm in CoDa, location TBD (or by appointment through email if this doe
 > Companies keep failing to protect people’s data from attackers. Despite increased attention and investment in security, headlines still report a steady stream of data breaches and ransomware attacks. Enterprise security teams are overwhelmed, with too much to do to prevent compromises. They are also bombarded with advice from governments, security companies, insurance providers, peer forums, and more — advice that can be confusing and contradictory.
 
 Our goal is to understand the disagreements and different priorities in available enterprise security advice documents, so that the community can better help companies cut through the noise. This project involves using LLMs to sort and compare large amounts of domain-specific advice text.
+
 Compensation Type: paid
 Contact Professor: Zakir Durumeric
 Field of Research: security, ai
-### Prereqs
+Prereqs
 - Experience with LLM prompt engineering
 - Basic Python fluency
 - Interest in learning about security
-### Recommended Background
+Recommended Background
 The strongest applicants will have one or more of the following:
 
 - Demonstrated creativity and persistence with LLM prompting and pipelining
 - Experimental design and data analysis skills
 - Familiarity with security (CS 155 or other background knowledge)
-### Recommended Background
+Recommended Background
 The strongest applicants will have one or more of the following:
 
 - Demonstrated creativity and persistence with LLM prompting and pipelining
 - Experimental design and data analysis skills
 - Familiarity with security (CS 155 or other background knowledge)
-### Office Hours
+Office Hours
 Monday 2/10 2-3pm
 
 
@@ -274,16 +285,17 @@ Monday 2/10 2-3pm
 > An important question in quantum computing is how to enable fault-tolerant computation: that is, how can we protect our computation from errors?  One approach is to encode data with a quantum error-correcting code, analogous to the classical error correcting codes used to protect classical communication and computation.  To go along with such a code, we also need a mechanism to perform computation on top of that encoded data.
 
 This project will investigate a class of quantum error-correcting codes called quantum LDPC CSS codes, which have been the subject of much recent exciting work. The goal is to look at a few concrete instantiations of codes from this broad family, and compute the set of fault-tolerant gates that they support. This computation could be purely formal (proof-based) or computer-assisted.
+
 Compensation Type: paid
 Contact Professor: Mary Katherine Wootters
 Field of Research: algorithms, theory_of_computation
-### Prereqs
+Prereqs
 A solid background in linear algebra and discrete math (MATH 61DM). You should also be fairly comfortable with abstract algebra (at the level of MATH 120) to be able to understand the algebraic constructions we will consider.
-### Recommended Background
+Recommended Background
 No prior knowledge of quantum computing or quantum physics is required, but it may be helpful if you have seen some quantum computing before (e.g., CS259Q).  Programming experience is optional but basic familiarity could be useful for calculations.  Experience with error correcting codes (e.g., via CS250/EE387) would also be helpful but is not required.
-### Recommended Background
+Recommended Background
 No prior knowledge of quantum computing or quantum physics is required, but it may be helpful if you have seen some quantum computing before (e.g., CS259Q).  Programming experience is optional but basic familiarity could be useful for calculations.  Experience with error correcting codes (e.g., via CS250/EE387) would also be helpful but is not required.
-### Office Hours
+Office Hours
 Monday Feb 10, 2-3pm, CoDa W216, or by appointment.
 
 
@@ -291,59 +303,62 @@ Monday Feb 10, 2-3pm, CoDa W216, or by appointment.
 > Large language models (LLMs) demonstrate impressive general capabilities due to their training on vast Internet datasets, but they lack access to user-specific knowledge. For example, while an LLM can provide generic advice about being an undergraduate, it cannot offer institution-specific guidance about what courses to take or what dining hall to eat at. Although retrieval-augmented generation and fine-tuned models offer technical solutions, they do not address the fundamental sociotechnical challenge: how users can effectively author and access the contextual data these models require. To address this limitation, we are building Knoll, a system that allows users to create and incorporate custom knowledge modules into their interactions with commercial LLMs including OpenAI's ChatGPT and Anthropic's Claude.
 
 We're looking for a student to join our research team and contribute to helping build Knoll.  You'll design features for the web application to integrate with different commercial LLMs. This isn't just a theoretical project – Knoll is live and actively used by real users in the broader community! You'll get hands-on experience running user tests and playing a crucial role in our iterative development process.
+
 Compensation Type: paid
 Contact Professor: Michael Bernstein
 Field of Research: hci, ai
-### Prereqs
+Prereqs
 - Experience with React.js 
 - Experience programming in Python and Javascript
-### Recommended Background
+Recommended Background
 - Interest or background in UI/UX Design 
 - Interest in large language models
 - The following courses are helpful, but not required: HCI courses like CS 147, 247, 347, or 278; AI courses like CS 221, 224N, or 124.
-### Recommended Background
+Recommended Background
 - Interest or background in UI/UX Design 
 - Interest in large language models
 - The following courses are helpful, but not required: HCI courses like CS 147, 247, 347, or 278; AI courses like CS 221, 224N, or 124.
-### Office Hours
+Office Hours
 February 11: 2-3PM at CoDa E316
 
 
 ## Language Learning
 > New advancements in XR and AI technology allow for the generation of interactive digital narratives that can support experiential and personalized learning experiences. We design and develop one such tool, applied to the educational domain of Language Learning. We are looking for interns to explore implementing 1) novel ways of using AR to improve immersion and learning outcomes 2) AI-based features that focus on supporting users in co-creating immersive simulations based on their learning goals.
+
 Compensation Type: paid
 Contact Professor: James A Landay
 Field of Research: hci, ai
-### Prereqs
+Prereqs
 Familiarity with programming
-### Recommended Background
+Recommended Background
 Computer Science
-### Recommended Background
+Recommended Background
 Computer Science
-### Office Hours
+Office Hours
 Tues / Thurs : 2p - 3p
 
 
 ## Integrated Sound Rendering for Computer Animation
 > Physics-based simulation and rendering enable artists to create stunning 3D animations, yet these animations remain inherently silent. The goal of this project is to contribute to an integrated "sound rendering" engine capable of automatically synthesizing physically-based, synchronized sound effects for a variety of animated phenomena (e.g. vibrating rigid bodies, fluids, virtual instruments). Students will have the option to explore several parts of the pipeline, from the theoretical modeling of sound sources themselves, to software integration with existing graphics tools (Houdini, Unreal, etc.). For more details, see https://graphics.stanford.edu/papers/waveblender/)
+
 Compensation Type: paid
 Contact Professor: Doug James
 Field of Research: graphics, scientific_computing
-### Prereqs
+Prereqs
 Familiarity with C++
-### Recommended Background
+Recommended Background
 Any of the following is helpful, but not required:
 - Graphics: CS 248, CS 348
 - Parallel programming: CS 149, familiarity with CUDA
 - Digital audio: MUSIC 220, MUSIC 320
 - Linear algebra, differential equations
-### Recommended Background
+Recommended Background
 Any of the following is helpful, but not required:
 - Graphics: CS 248, CS 348
 - Parallel programming: CS 149, familiarity with CUDA
 - Digital audio: MUSIC 220, MUSIC 320
 - Linear algebra, differential equations
-### Office Hours
+Office Hours
 CoDa E308, by appointment
 
 
@@ -353,18 +368,19 @@ CoDa E308, by appointment
 Bayesian Optimization (BO) is a family of algorithms that relies on UQ to optimize under uncertainty. The molecular property prediction literature is conflicted about the utility of UQ and BO, with some examples of successful uses of BO and other datasets on which uncertainties are so poorly estimated that BO is unhelpful. 
 
 This project seeks to better understand the landscape of uncertainty quantification in molecular property prediction. When does it work and when does it not? Can we develop reliable models and ultimately improve prediction?
+
 Compensation Type: paid
 Contact Professor: Ron Dror
 Field of Research: biocomputation, ai
-### Prereqs
+Prereqs
 Strong background in Python programming
 Experience with machine learning and optimizing ML models
 Experience reading research papers and drawing actionable conclusions from them
-### Recommended Background
+Recommended Background
 Introductory biochemistry or organic chemistry
-### Recommended Background
+Recommended Background
 Introductory biochemistry or organic chemistry
-### Office Hours
+Office Hours
 Friday 14 February 2-3 pm
 
 Zoom
@@ -394,19 +410,20 @@ In this project, we will focus on making the process of collecting demonstration
 (2) Can we develop methods and interfaces for the robot to give real-time performance feedback to help users provide higher quality data?
 
 Our ultimate goal is to deploy our system on real robots in our lab. You will work collaboratively with PhD students and postdocs with the possibility for publication at the end of the project. We encourage students from all backgrounds to apply.
+
 Compensation Type: paid
 Contact Professor: Dorsa Sadigh
 Field of Research: robotics, ai
-### Prereqs
+Prereqs
 Students should have an interest working at the intersection of robot learning and human-robot interaction. Experience with Python programming, machine learning (e.g., CS229, CS221), and a deep learning framework such as PyTorch is required.
 The following are a huge plus:
 - Experience in reinforcement learning or imitation learning (e.g., CS224R)
 - Experience working on significant programming projects
-### Recommended Background
+Recommended Background
 CS 229, CS 221
-### Recommended Background
+Recommended Background
 CS 229, CS 221
-### Office Hours
+Office Hours
 Feb 5, Feb 12: 2pm-3pm Gates 216.
 
 
@@ -414,21 +431,22 @@ Feb 5, Feb 12: 2pm-3pm Gates 216.
 > Wegovy and Ozempic are recent blockbuster drugs for treating diabetes, obesity, and other conditions. They are also peptides: small proteins. 
 
 This CURIS project will be involved in early-stage design of a peptide to treat leukemia. The peptide will target a protein-protein interaction that is involved in cell cycle progression and requires optimization of a number of properties. We will do this using a combination of physics-based molecular dynamics (MD) simulations and machine learning (ML). What specifically you will do will depend on project progress leading up to the summer, but you will have the opportunity to contribute to designing real compounds that will be tested experimentally.
+
 Compensation Type: paid
 Contact Professor: Ron Dror
 Field of Research: biocomputation, scientific_computing, ai
-### Prereqs
+Prereqs
 Strong programming experience in Python, and prior experience working with scientific datasets
 Paper-reading experience
-### Recommended Background
+Recommended Background
 These are not required but are helpful:
 - Biochemistry or medicinal chemistry background
 - Experience setting up conda environments and working on a cluster
-### Recommended Background
+Recommended Background
 These are not required but are helpful:
 - Biochemistry or medicinal chemistry background
 - Experience setting up conda environments and working on a cluster
-### Office Hours
+Office Hours
 Friday 14 Feb 2-3 pm
 
 https://stanford.zoom.us/j/93940889936?pwd=IaEcAFPGwK5UWpHQD54gt3piZf8jiH.1
@@ -451,16 +469,17 @@ Or Telephone:
 
 ## Distributed Debugging
 > Legion is a programming model for distributed, parallel machines that provides a higher-level abstraction than traditional high performance programming frameworks.   This project will investigate building an interactive debugger for Legion, similar in functionality and "feel" to gdb, that takes advantage of these abstractions to allow users to inspect and understand the runtime behavior of a distributed program.
+
 Compensation Type: paid
 Contact Professor: Alex Aiken
 Field of Research: programming_languages, distributed_systems
-### Prereqs
+Prereqs
 CS143 or CS149
-### Recommended Background
+Recommended Background
 Strong C++ programming skills are necessary for this project.
-### Recommended Background
+Recommended Background
 Strong C++ programming skills are necessary for this project.
-### Office Hours
+Office Hours
 Thurdsays, 3-4, CoDa E462
 
 
@@ -470,21 +489,22 @@ Thurdsays, 3-4, CoDa E462
 Projects may include:
 - The design and implementation of a system to block online tracking JavaScript at the function level.
 - Aiding in the design and implementation of a from-scratch web scraping framework.
+
 Compensation Type: paid
 Contact Professor: Zakir Durumeric
 Field of Research: networking, security, programming_languages
-### Prereqs
+Prereqs
 - Taken a basic security course (CS155 or equivalent) AND/OR a basic networking course (CS144 or equivalent). Networking course preferred.
 - Familiarity and experience with JavaScript fundamentals
 - Experience in programming and system design
 - Willingness to contribute 40 dedicated hours a week
-### Recommended Background
+Recommended Background
 - A basic understanding of web development and browser APIs
 - A high-level understanding of browser JavaScript execution
-### Recommended Background
+Recommended Background
 - A basic understanding of web development and browser APIs
 - A high-level understanding of browser JavaScript execution
-### Office Hours
+Office Hours
 By appointment. Email me!
 
 
@@ -508,16 +528,17 @@ Within this theme, we offer multiple research opportunities, including:
 * Designing and developing censorship circumvention systems that are already in use by millions of users in China, Iran, and Russia daily.
 
 The most important thing to us is understanding your interests and expectations—we aim to match you with a project tailored to your skills and passions while supporting your growth, success, and, most importantly, doing cool and impactful research!
+
 Compensation Type: paid
 Contact Professor: Zakir Durumeric
 Field of Research: security, networking, software_engineering
-### Prereqs
+Prereqs
 * Background knowledge in networking through CS144 or equivalent
-### Recommended Background
+Recommended Background
 * It is helpful, but not required, to have some background in network security (e.g., CS155 or equivalent).
-### Recommended Background
+Recommended Background
 * It is helpful, but not required, to have some background in network security (e.g., CS155 or equivalent).
-### Office Hours
+Office Hours
 Location: CoDA W338 
 
 Time slots:
@@ -532,16 +553,17 @@ Thursday 2-4 pm (Feb 6, Feb 13)
 
 ## Writing Performant GPU Kernels with Language Models
 > Kernel programming is crucial for unlocking the full performance of GPUs but is highly challenging due to the need for deep expertise in hardware, parallelism, and memory optimization. Can LLMs help or be better than humans at writing Kernels? Building on KernelBench, a benchmark for evaluating LLMs' kernel generation capabilities, the research will focus on using reinforcement learning and feedback loops to improve kernel quality iteratively. In this role, you will conduct experiments to evaluate what types of feedback are most effective for improving the performance of language models in generating GPU kernels and how to make LLMs use feedback more effectively. You will also implement reinforcement learning and feedback mechanisms to iteratively optimize kernel quality. Additionally, you may help in expanding KernelBench with new tasks and metrics to better assess LLM capabilities. Interested students should send Anne Ouyang (aco@stanford.edu) a resume/CV, transcript, and short paragraph explaining their relevant background.
+
 Compensation Type: paid
 Contact Professor: Azalia Mirhoseini
 Field of Research: ai, software_engineering, programming_languages
-### Prereqs
+Prereqs
 We are looking for highly motivated students who have a strong deep learning and reinforcement learning background (CS229, CS224N, CS234, etc.) with proficiency in PyTorch, familiar with ML and agentic systems (CS229S, CS329A). Basic knowledge of GPU programming.
-### Recommended Background
+Recommended Background
 It is recommended to have prior experience with kernel programming for a deeper understanding and effective implementation.
-### Recommended Background
+Recommended Background
 It is recommended to have prior experience with kernel programming for a deeper understanding and effective implementation.
-### Office Hours
+Office Hours
 By appointment
 
 
@@ -549,16 +571,17 @@ By appointment
 
 ## Reasoning Language Models
 > Recent large language models such as OpenAI o1/o3 and DeepSeek R1 have demonstrated remarkable performance on math and coding tasks by generating long chains-of-thought before producing their final answer. They explore many paths to a solution and refine their own outputs, in a manner more closely resembling how humans solve challenging problems than previous models. Inspired by these successes, we will consider new methodologies to advance the reasoning capabilities of generative models.
+
 Compensation Type: paid
 Contact Professor: Tatsunori Benjamin Hashimoto
 Field of Research: ai
-### Prereqs
+Prereqs
 N/A
-### Recommended Background
+Recommended Background
 A strong math background (linear algebra, calculus, probability) and familiarity with deep learning frameworks like PyTorch. Experience with probabilistic ML (e.g., CS 228, CS 236) and GPU/kernel programming (e.g., CS 149, CS 229S, CS 336) is a plus.
-### Recommended Background
+Recommended Background
 A strong math background (linear algebra, calculus, probability) and familiarity with deep learning frameworks like PyTorch. Experience with probabilistic ML (e.g., CS 228, CS 236) and GPU/kernel programming (e.g., CS 149, CS 229S, CS 336) is a plus.
-### Office Hours
+Office Hours
 Friday Feb 7, 10-11am, Gates 358
 Tuesday Feb 11, 4-5pm, Gates 304
 
@@ -567,16 +590,17 @@ Tuesday Feb 11, 4-5pm, Gates 304
 
 ## Interactive Visual World Generation and Rendering
 > The project aims to develop a fully automatic pipeline of interactive dynamic world generation with realistic renderings. It will leverage language models to generate high-level abstractions of interactive worlds in the form of programs, and visual generative models as renderers that take in the compositional world structures and output realistic renderings. The full pipeline will open possibilities for agent training and user interactions.
+
 Compensation Type: paid
 Contact Professor: Jiajun Wu
 Field of Research: ai, vision, programming_languages
-### Prereqs
+Prereqs
 Applicants should be familiar with deep learning techniques and basic mathematics concepts in linear algebra and probability. Proficiency in python and PyTorch is required. Familiarity with 3D geometry and neural rendering is a plus.
-### Recommended Background
+Recommended Background
 CS231a, CS231n
-### Recommended Background
+Recommended Background
 CS231a, CS231n
-### Office Hours
+Office Hours
 By appointment.
 
 
@@ -586,16 +610,17 @@ By appointment.
 > To distribute computations across multiple nodes and multiple GPUs, data must be partitioned across the compute units in the machine. Computing the necessary partitions of distributed data can be complex when the structure of the partitions are data dependent. The Legion runtime system is capable of representing and computing these data dependent partitions, but currently using CPUs -- this project would focus on developing GPU-based algorithms to speed up data partitioning process.
 
 Alternate projects are also possible, such as porting an existing scientific application to Legion to scale it clusters of GPUs. Additionally, if a student has an application they are interested in scaling to clusters of GPUs, we can discuss how to scope a project around that.
+
 Compensation Type: paid
 Contact Professor: Alex Aiken
 Field of Research: distributed_systems, programming_languages, ai
-### Prereqs
+Prereqs
 CS149 or other parallel programming equivalent
-### Recommended Background
+Recommended Background
 An ideal candidate would have some background with parallel computation, especially with programming in CUDA and C++.
-### Recommended Background
+Recommended Background
 An ideal candidate would have some background with parallel computation, especially with programming in CUDA and C++.
-### Office Hours
+Office Hours
 Wednesdays, 2-4PM, Gates 494
 Thursdays, 2-4PM, Gates 494
 
@@ -650,16 +675,17 @@ Recommended Background:
 * Confidence in C++ or Python 
 * Experience with symbolic execution or program synthesis (optional but beneficial)
 * CS 257 or 357S (optional but beneficial)
+
 Compensation Type: paid
 Contact Professor: Caroline Trippel
 Field of Research: architecture_and_hardware, compilers, formal_methods_and_verification
-### Prereqs
+Prereqs
 See above per project.
-### Recommended Background
+Recommended Background
 See above per project.
-### Recommended Background
+Recommended Background
 See above per project.
-### Office Hours
+Office Hours
 By appointment. Contact Ioanna Vavelidou: vavel@stanford.edu.
 
 
@@ -669,16 +695,17 @@ By appointment. Contact Ioanna Vavelidou: vavel@stanford.edu.
 > Recent work (e.g. chain-of-thought, o1/o3, r1) has demonstrated that scaling test-time compute can significantly improve the reasoning capabilities of large language models when solving particular problems of interest. However, this existing line of work only focuses on one aspect of how humans scale test-time compute. A completely separate but equally-important setting is when someone reads a very difficult textbook chapter and reflects on that material for a long time in order to internalize the knowledge (without necessarily thinking of a concrete problem). The purpose of this project is to explore this idea of how we can scale “test-time compute for learning”.
 We can make progress towards this overall research goal through a variety of potential projects, such as improving LLM architectures to allow for better FLOP scaling (e.g. with looping and bidirectionality), new training objectives that explicitly boost in-context-learning, and pursuing recent new approaches like test-time training. Students will be able to pursue any of these concrete project ideas, or self-direct their own project in this area.
 This role requires a full-time commitment (40+ hours/week). Interested students should email Jordan Juravsky (jbj@stanford.edu) for more information.
+
 Compensation Type: paid
 Contact Professor: Azalia Mirhoseini
 Field of Research: ai
-### Prereqs
+Prereqs
 CS224N, CS229S, CS329A or equivalent
-### Recommended Background
+Recommended Background
 Have worked with LLMs.
-### Recommended Background
+Recommended Background
 Have worked with LLMs.
-### Office Hours
+Office Hours
 Please email  Juravsky (jbj@stanford.edu) for more information.
 
 
@@ -690,16 +717,17 @@ Please email  Juravsky (jbj@stanford.edu) for more information.
 1. Can we determine whether a language model was trained independently of another language model (versus being distilled and/or fine-tuned from the other model)?
 
 2. Can we determine the data on which a language model was trained and/or attribute the predictions/behavior of a model back to certain parts of its training data?
+
 Compensation Type: paid
 Contact Professor: Percy Shuo Liang
 Field of Research: ai
-### Prereqs
+Prereqs
 None.
-### Recommended Background
+Recommended Background
 Prior background with deep learning frameworks (e.g., Pytorch) and a strong math background.
-### Recommended Background
+Recommended Background
 Prior background with deep learning frameworks (e.g., Pytorch) and a strong math background.
-### Office Hours
+Office Hours
 2/7/25, 4pm, virtual (Zoom link TBD)
 
 
@@ -709,16 +737,17 @@ Prior background with deep learning frameworks (e.g., Pytorch) and a strong math
 
 ## Theory
 > Have you enjoyed your theory classes and would like to work on a research problem that nobody knows the answer to, instead of a homework problem? A few theory professors are jointly offering this project for students interested in research in theoretical computer science topics. We will tailor the project to your interests and choose a topic of mutual interest to work on. Possible topics include: approximation algorithms that cut corners for hard optimization problems by returning (slightly) suboptimal solutions, or big data algorithms that cut corners when the input is too big to fit into memory.
+
 Compensation Type: paid
 Contact Professor: Moses Charikar, Aviad Rubinstein, and Aaron Sidford
 Field of Research: algorithms
-### Prereqs
+Prereqs
 CS 161 and/or CS 154
-### Recommended Background
+Recommended Background
 The project is appropriate for advanced undergraduate students. Students with a stronger background in theoretical computer science will get priority.
-### Recommended Background
+Recommended Background
 The project is appropriate for advanced undergraduate students. Students with a stronger background in theoretical computer science will get priority.
-### Office Hours
+Office Hours
 Aviad: Wed 2/12, 2:30-3:30, CoDa W250
 
 
@@ -726,24 +755,25 @@ Aviad: Wed 2/12, 2:30-3:30, CoDa W250
 > Research has demonstrated that emotions can spread rapidly on social media, with negative emotions often spreading more quickly and broadly than positive ones. However, the majority of prior studies have focused on assessing these emotions using sentiment analysis tools like VADER, which are typically dictionary-based and primarily capture expressed emotions—those explicitly communicated through words, such as “I’m happy.” This approach overlooks the subtle nuances of implied emotions, which are suggested or inferred through indirect language, choice of words, or literary devices like metaphor and irony. For instance, a statement like "I wish my paper got accepted" implies sadness and disappointment without directly stating it. 
 
 In this study, we plan to investigate how implied and expressed emotions differ in their spread and impact on social media. We will collect and analyze social media content from platforms such as Reddit, using large language models to distinguish between implied and expressed emotions. By conducting statistical analyses, we will investigate how these different types of emotional content influence users' subsequent behaviors, such as engagement and emotional responses. The anticipated contribution of this research is to provide deeper insights into the complexities of emotional contagion on social media, improving our understanding of online interactions and potentially informing strategies for managing emotional spread.
+
 Compensation Type: paid
 Contact Professor: Michael Bernstein
 Field of Research: hci, ai
-### Prereqs
+Prereqs
 The ideal candidate is someone who is excited to work on projects at the intersection between HCI, NLP, and AI! Bonus points if you are interested in understanding the behavioral outcomes of conversational exchanges on social media platforms.
 
 The following courses are helpful, but not required: HCI courses like CS 147, 247, 347, or 278; AI and NLP courses like CS 221, 224N, 124, 336 or any other equivalent courses.
-### Recommended Background
+Recommended Background
 This project involves both technical development and field experiment design. A solid foundation in at least one of the following areas is  recommended:
 
 (1) Experiences with data science skills, such us collecting and analyzing data from social media APIs using Python.
 (2) Experiences with LLM-based applications and evaluating machine learning models.
-### Recommended Background
+Recommended Background
 This project involves both technical development and field experiment design. A solid foundation in at least one of the following areas is  recommended:
 
 (1) Experiences with data science skills, such us collecting and analyzing data from social media APIs using Python.
 (2) Experiences with LLM-based applications and evaluating machine learning models.
-### Office Hours
+Office Hours
 Wed 2/059:30am-10:30am, CoDa E316
 Wed 2/12 9:30am-10:30am, CoDa E316
 
@@ -764,24 +794,25 @@ The project consists of three key components:
 3. Edge Computing for Wildlife Detection: Developing an ultra-lightweight image processing pipeline that runs on the embedded device to detect and classify wildlife efficiently.
 
 We are looking for undergraduate students who are passionate about building real-world applications, enjoy solving open-ended engineering challenges, and aren’t afraid to get their hands dirty. By joining this project, you will gain hands-on experience in embedded systems, wireless communication, and energy-efficient machine learning while working on a system with real-world scientific impact.
+
 Compensation Type: paid
 Contact Professor: Zerina Kapetanovic
 Field of Research: architecture_and_hardware, networking
-### Prereqs
+Prereqs
 CS 106
-### Recommended Background
+Recommended Background
 No prior experience is required, but having familiarity with any of the following areas will make it easier to get started. If you have such experience, please highlight it in your application.
 1. Embedded systems development, PCB design
 2. Wireless communication protocols
 3. Low-power electronics and energy harvesting
 4. Computer vision
-### Recommended Background
+Recommended Background
 No prior experience is required, but having familiarity with any of the following areas will make it easier to get started. If you have such experience, please highlight it in your application.
 1. Embedded systems development, PCB design
 2. Wireless communication protocols
 3. Low-power electronics and energy harvesting
 4. Computer vision
-### Office Hours
+Office Hours
 Tue/Thu 11AM-12PM CoDa E460
 
 
@@ -793,16 +824,17 @@ Tue/Thu 11AM-12PM CoDa E460
 > This project aims to encoding spatial and relational logics into social media design (e.g., via creating new feeds and feed algorithms, adding annotations, manipulating user networks, etc). In other words, the idea is to make the design of social media reflect different user intuitions to do with closeness of relationship and physical location. For instance, notions of inner and outer networks, the idea of “running into” people by coincidence, notions of landmarks, and more.
 
 Project conceptualization is in early stages now, so the project basis could change significantly by the start of CURIS. The CURIS student will play a significant role in defining both the project and their role on it. This project will employ a combination of methods (experimental, design, building) with the goal of developing a theoretical basis for the idea, designing and building a tool for social media experience (e.g. on Discord, Slack, Bluesky), and designing and running an evaluation. The CURIS student may play an active role in all of these steps, working closely with a PhD student. Project will likely go beyond the summer but intern participation beyond the CURIS period is negotiable.
+
 Compensation Type: paid
 Contact Professor: Michael Bernstein
 Field of Research: hci
-### Prereqs
+Prereqs
 Enthusiasm for HCI and an interest in social media/online behavior. This will be a good fit for people interested in combining social science (psychology, communication, sociology) insights and theory with technology and design, and less of a good fit for those who want to do purely technical (i.e., coding) or purely experimental/qualitative work. We'd like to see some demonstrated HCI interest.
-### Recommended Background
+Recommended Background
 HCI background and experience with web programming are desirable but not required (be sure to mention any experience in your application!).
-### Recommended Background
+Recommended Background
 HCI background and experience with web programming are desirable but not required (be sure to mention any experience in your application!).
-### Office Hours
+Office Hours
 CODA 3rd Floor open area by stairs - Feb 10, 10-11am
 
 Students may request to add a new time, but that will be made available to the whole group, not one-on-one.
@@ -843,48 +875,50 @@ Adapts to different LLMs (Llama, Gemma, Claude, GPT-4o) for state-of-the-art per
 🔹 An AI system capable of translating and verifying all existing and future code.
 🔹 A self-improving pipeline that continuously enhances its ability to formalize and verify programs.
 🔹 A major leap toward AI that not only writes but also verifies and improves software correctness.
+
 Compensation Type: paid
 Contact Professor: Sanmi Koyejo
 Field of Research: ai, formal_methods_and_verification, ai
-### Prereqs
+Prereqs
 Strong background in machine learning (PyTorch, JAX, TensorFlow).
 Familiarity with formal verification (Lean, Coq, Isabelle, Dafny, TLA+).
 Experience with LLMs, DSPy, or synthetic data generation is a plus but not required.
 Proficiency in Python and at least one other programming language (Rust, Coq, Verilog, etc.).
-### Recommended Background
+Recommended Background
 Coursework or research in AI reasoning, NLP, theorem proving, or program synthesis.
 Experience working with large-scale datasets and model fine-tuning.
 Knowledge of automated formal verification tools.
-### Recommended Background
+Recommended Background
 Coursework or research in AI reasoning, NLP, theorem proving, or program synthesis.
 Experience working with large-scale datasets and model fine-tuning.
 Knowledge of automated formal verification tools.
-### Office Hours
+Office Hours
 e-mail me by appointment and follow this: https://brando90.github.io/brandomiranda/prospective-collaborations.html
 
 
 ## The Well-being of Social Support Providers on Social Media
 > With the rise of online social interactions, understanding their impact on psychological well-being has become increasingly important. While it is established that receiving online social support can enhance the well-being of recipients, the effects on those providing support remain under-explored. This study aims to fill this gap by investigating how offering social support on platforms like Reddit and Twitter affects the well-being of the support providers themselves. We propose an A/B test experiment to determine whether engaging in supportive online behavior can improve providers’ well-being, assessed through self-reported surveys. To facilitate this, we will develop a Chrome extension that uses large language models like ChatGPT to identify posts in need of support. Participants in the experimental group will be prompted to offer support to several posts daily. We will measure any changes in their well-being through pre- and post-experiment surveys. This research seeks to uncover the potential psychological benefits of digital altruism, offering valuable insights into how structured online support initiatives can foster positive psychological states and encourage prosocial engagement on social media.
+
 Compensation Type: paid
 Contact Professor: Michael Bernstein
 Field of Research: hci, ai
-### Prereqs
+Prereqs
 The ideal candidate is someone who is excited to work on projects at the intersection between HCI, NLP, and AI! Bonus points if you are interested in building AI interventions for social media platforms.
 
 The following courses are helpful, but not required: HCI courses like CS 147, 247, 347, or 278; AI and NLP courses like CS 221, 224N, 124, 336 or any other equivalent courses.
-### Recommended Background
+Recommended Background
 This project involves both technical development and field experiment design. A solid foundation in at least one of the following areas is  recommended:
 
 (1) Experiences with Python and web development (e.g, HTML, CSS, JavaScript, React).
 (2) Experiences with LLM-based applications and evaluating machine learning models.
 (3) Experiences with collecting and analyzing data from social media APIs using Python.
-### Recommended Background
+Recommended Background
 This project involves both technical development and field experiment design. A solid foundation in at least one of the following areas is  recommended:
 
 (1) Experiences with Python and web development (e.g, HTML, CSS, JavaScript, React).
 (2) Experiences with LLM-based applications and evaluating machine learning models.
 (3) Experiences with collecting and analyzing data from social media APIs using Python.
-### Office Hours
+Office Hours
 Wed 2/059:30am-10:30am, CoDa E316
 Wed 2/12 9:30am-10:30am, CoDa E316
 
@@ -893,32 +927,34 @@ Wed 2/12 9:30am-10:30am, CoDa E316
 > Machine learning and data analysis have enjoyed tremendous success in a broad range of domains. These advances hold the promise of great benefits to individuals, organizations, and society as a whole. Undeniably, algorithms are informing decisions that reach ever more deeply into our lives, from news article recommendations to criminal sentencing decisions to healthcare diagnostics. This progress, however, raises (and is impeded by) a host of concerns regarding the societal impact of computation. A prominent concern is that these algorithms should be fair.  Unfortunately, the hope that automated decision-making might be free of social biases is dashed on the data on which the algorithms are trained and the choices in their construction: left to their own devices, algorithms will propagate -- even amplify --  existing biases of the data, the programmers, and the decisions made in the choice of features to incorporate and measurements of "fitness'' to be applied.
 
 We explore the foundations of Algorithmic Fairness.
+
 Compensation Type: paid
 Contact Professor: Omer Reingold
 Field of Research: theory_of_computation, algorithms, ai
-### Prereqs
+Prereqs
 Most likely, the project will explore a theory perspective on Algorithmic Fairness and thus theory (or at least math) background will be useful. We will also consider students with experimental/ML background for an experimental investigation of the theory oriented approach.
-### Recommended Background
+Recommended Background
 We will suggest papers for reading prior to the summer
-### Recommended Background
+Recommended Background
 We will suggest papers for reading prior to the summer
-### Office Hours
+Office Hours
 February 12, 1:30-2:30
 https://stanford.zoom.us/j/97645916777?pwd=KkKwUcSPQBIdOrfKxFyaNH6tEHJJvm.1
 
 
 ## Evaluating Human-Agent Collaboration
 > The future belongs to humans and AI agents partnering together to solve different tasks. Prior works have released agentic benchmarks, however, there does not exist any agentic testing environments to evaluate how humans and AI agents can collaborate together while maintaining autonomy and control.  This is largely caused by the high cost associated with setting up such human-AI interaction environments, and unknown factors involved that can mimic naturalistic human-AI collaboration. In this work, we aim to develop an agentic testing environment that supports humans and agents collaborating together to complete diverse workflows, and a human-in-the-loop LLM-based automatic evaluation paradigm to evaluate the effectiveness of such human-AI collaboration.
+
 Compensation Type: paid
 Contact Professor: Diyi Yang
 Field of Research: ai, hci, ai
-### Prereqs
+Prereqs
 We're looking for a self-motivated student to join our research team and contribute to the project’s various aspects including but not limited to data processing, idealization, and experimentation. Your main project will be on creating better evaluation or training methods for general- or specific-domain LLM agents to collaborate with humans.
-### Recommended Background
+Recommended Background
 Solid experiences with large language models, training and evaluating machine learning models; students who have taken CS221/CS224N/CS336 or any other equivalent courses
-### Recommended Background
+Recommended Background
 Solid experiences with large language models, training and evaluating machine learning models; students who have taken CS221/CS224N/CS336 or any other equivalent courses
-### Office Hours
+Office Hours
 Feb 6th, 10:30-12pm PT, Gates 3A open area
 Feb 13th, 10:30-12pm PT, Gates 3A open area
 
@@ -931,20 +967,21 @@ Feb 13th, 10:30-12pm PT, Gates 3A open area
 To do this, we are developing new design methods to evaluate communities’ experiences with design, as well as the values that they connect to these experiences. We hope that these methods can augment existing feedback mechanisms to advance systems that work across a range of communities, rather than for a privileged subset.
 
 In this role, you will help to develop, pilot, launch and analyze a survey-based feedback mechanism for community-centered design evaluation. This work may include, but is not limited to, literature reviews, survey development, qualitative analysis, and quantitative analysis.
+
 Compensation Type: paid
 Contact Professor: Michael Bernstein
 Field of Research: hci
-### Prereqs
+Prereqs
 Applicants should have a demonstrated interest in one or more of the following areas:
 
 1) design methods and/or community-specific design (e.g.: social computing, accessible UI, user studies, etc.)
 2) quantitative data analysis and related software (e.g.: Python, R, statistics, etc.)
 3) qualitative data analysis (e.g.: grounded theory, thematic coding, interviewing)
-### Recommended Background
+Recommended Background
 Will have ideally taken CS147 or equivalent
-### Recommended Background
+Recommended Background
 Will have ideally taken CS147 or equivalent
-### Office Hours
+Office Hours
 February 10th, 3-4 pm, CoDa 3rd Floor (near room E314)
 February 17th, 3-4pm CoDa 3rd Floor (near room E314)
 
@@ -963,10 +1000,11 @@ In the tentative plan, the students will write a program to listen to samples fr
 Now that they've done that, we'll ask the students to write another program that does what they just did by hand -- take an English sentence and "play" it as synthesized audio. From that point, the students can make a little network where one person's cell phone sends the data (over audio) and another one receives it, and then we can ask them crank up the speed faster and faster where it can't really be made by hand on a xylophone anymore and it's just bits flying back and forth from one student's phone to another, and we can talk about another of Shannon's amazing results: that there is no necessary tradeoff between the communication rate and the error rate (as long as the information transfer rate is below the threshold "capacity"). Which was a very surprising result in 1948 and has arguably enabled the entire information age, digital video compression, etc.
 
 We'd have a lot of work to do to make this class possible -- somebody has to try to do these programming assignments (as if they were a student) and verify that it's really possible, and we'll create the structured editing/development environment where we feel proud of putting first-time programmers in front of it and introducing them to computer programming in this way. And none of these plan is set in stone -- we'll have to adapt it based on whatever we learn or whatever proves infeasible. But I am excited to attempt it!
+
 Compensation Type: paid
 Contact Professor: Keith Winstein
 Field of Research: software_engineering, programming_languages, ai
-### Prereqs
+Prereqs
 Interest in CS education
 
 Programming experience and maturity
@@ -976,15 +1014,15 @@ Some experience with Web programming
 Willingness to learn WebAssembly
 
 Ideally, CS 242 or some experience with the idea of structured editing and software engineering environments
-### Recommended Background
+Recommended Background
 "A Digital Signal Processing Primer" (by Ken Steiglitz) or similar
 
 WebAssembly text format specification: https://webassembly.github.io/spec/core/text/index.html
-### Recommended Background
+Recommended Background
 "A Digital Signal Processing Primer" (by Ken Steiglitz) or similar
 
 WebAssembly text format specification: https://webassembly.github.io/spec/core/text/index.html
-### Office Hours
+Office Hours
 February 4, 4 p.m., CoDa W342
 
 
@@ -1025,16 +1063,17 @@ Recommended Background
 
 Prerequisites
 - CS154 Introduction to the Theory of Computation, or CS106B Programming Abstractions and CS103 Mathematical Foundations of Computing or equivalent.
+
 Compensation Type: paid
 Contact Professor: Caroline Trippel
 Field of Research: architecture_and_hardware, formal_methods_and_verification, ai
-### Prereqs
+Prereqs
 See above per project.
-### Recommended Background
+Recommended Background
 See above per project.
-### Recommended Background
+Recommended Background
 See above per project.
-### Office Hours
+Office Hours
 By appointment. 
 Project 1: Contact Rachel Cleaveland: rcleavel@stanford.edu
 Project 2: Contact Yao Hsiao: yaohsiao@stanford.edu
@@ -1042,18 +1081,19 @@ Project 2: Contact Yao Hsiao: yaohsiao@stanford.edu
 
 ## Systematic Reviews of the Scientific Literature using LLMs
 > Systematic reviews are a cornerstone of the scientific literature. They are used for synthesizing research findings, designing guidelines, and informing science-guided policies. They are particularly common and impactful in the health sciences, education, and psychology. However, current methods of conducting systematic reviews are labor-, time-, and resource-intensive. The systematic review process typically entails researchers reviewing hundreds or thousands of abstracts and extracting data from dozens of articles. Current large language models (LLMs) are capable of extracting content and information from text - and some image - data, but the extent to which they are capable of systematically and consistently extracting information from scientific studies and providing comprehensive and unbiased information is unknown. We are developing and researching the capacity of LLMs to systematically and reliably screen and review scientific studies. We are focusing on LLM capabilities that involve grounding, reproducibility, trustworthiness, and RAG. We are looking for a summer CS intern to join our team.
+
 Compensation Type: paid
 Contact Professor: Eran Bendavid
 Field of Research: ai, databases
-### Prereqs
+Prereqs
 - Python, including scripting APIs
 - Preference for completing several CS200-level courses such as AI principles (CS221), deep learning (CS230), or NLP (CS224)
 -
-### Recommended Background
+Recommended Background
 Interest in AI and language models, and a desire to develop tool for scientists
-### Recommended Background
+Recommended Background
 Interest in AI and language models, and a desire to develop tool for scientists
-### Office Hours
+Office Hours
 Thursdays 3pm, Encina Commons 102
 
 
@@ -1061,16 +1101,17 @@ Thursdays 3pm, Encina Commons 102
 
 ## Extending the Lean-SMT Tactic
 > See URL
+
 Compensation Type: paid
 Contact Professor: Clark Barrett
 Field of Research: formal_methods_and_verification
-### Prereqs
+Prereqs
 See URL
-### Recommended Background
+Recommended Background
 See URL
-### Recommended Background
+Recommended Background
 See URL
-### Office Hours
+Office Hours
 Mondays 11-12am, CoDa W334 or by appointment
 
 
@@ -1082,24 +1123,25 @@ Mondays 11-12am, CoDa W334 or by appointment
 > Wearable devices that measure signals from our bodies have become commonplace. Today's smartwatches only scratch the surface of the possibilities for continuous health sensing. We are designing and testing new sensors and algorithms to measure the cardiovascular system non-invasively. We hope this technology can help people better diagnose and manage common health issues like high blood pressure.
 
 In this role, you will do hands-on work to help design, fabricate and test novel wearable cardiovascular sensors. This work may include 3D printing molds, casting silicone, assembling circuits, running bench-top tests, and assisting in running studies to test the sensors with human subjects.
+
 Compensation Type: paid
 Contact Professor: James A Landay
 Field of Research: hci, biocomputation
-### Prereqs
+Prereqs
 1. Familiarity with Python
-### Recommended Background
+Recommended Background
 The strongest applicants will have demonstrated interest in one or more of the following areas:
 1. Human biology (e.g. anatomy, physiology, especially cardiovascular)
 2. Printed circuit board design (e.g. KiCAD)
 3. Electronics design (e.g. breadboarding, soldering)
 4. Laboratory experience (e.g. prior research wet lab role)
-### Recommended Background
+Recommended Background
 The strongest applicants will have demonstrated interest in one or more of the following areas:
 1. Human biology (e.g. anatomy, physiology, especially cardiovascular)
 2. Printed circuit board design (e.g. KiCAD)
 3. Electronics design (e.g. breadboarding, soldering)
 4. Laboratory experience (e.g. prior research wet lab role)
-### Office Hours
+Office Hours
 - Feb 7, 4-5pm, Coda building (room TBD)
 - Feb 10, 11am-12pm, Coda building (room TBD)
 
@@ -1123,16 +1165,17 @@ Our goal is to build this model from scratch, which includes:
 We will develop a robust, computationally efficient, and versatile architecture capable of adapting to a range of tasks, including but not limited to information retrieval, answering complex queries, drug repurposing, and product recommendation. The successful deployment of our model could have significant implications in database management, social network analysis, and biology.
 
 We are looking for highly motivated students who have a background in machine learning, and deep learning (e.g., CS224W, CS 230, CS231N etc.). Strong coding skills and proficiency in PyTorch are required. Experience with distributed computing and data processing is a plus.
+
 Compensation Type: paid
 Contact Professor: Jure Leskovec
 Field of Research: ai, databases, scientific_computing
-### Prereqs
+Prereqs
 Strong coding skills and proficiency in PyTorch.
-### Recommended Background
+Recommended Background
 Machine learning and deep learning (e.g., CS224W, CS 230, CS231N etc.)
-### Recommended Background
+Recommended Background
 Machine learning and deep learning (e.g., CS224W, CS 230, CS231N etc.)
-### Office Hours
+Office Hours
 Friday February 7, 4-5 pm, Gates 392
 Friday February 14, 3-5 pm, Gates 392
 
@@ -1141,29 +1184,30 @@ Friday February 14, 3-5 pm, Gates 392
 > Wearable devices that measure signals from our bodies have become commonplace. Today's smartwatches only scratch the surface of the possibilities for continuous health sensing. We are designing and testing new sensors and algorithms to measure the cardiovascular system non-invasively. We hope this technology can help people better diagnose and manage common health issues like high blood pressure.
 
 In this role, you will apply statistical inference techniques to encode biological domain priors into bio-signal inference algorithms. Techniques may include Sequential Monte Carlo and Variational Bayesian Inference.
+
 Compensation Type: paid
 Contact Professor: James A Landay
 Field of Research: biocomputation, ai, hci
-### Prereqs
+Prereqs
 Proficiency in Python (e.g. CS 106A)
 Introductory probability (e.g. CS 109)
 Demonstrated experience with one or more of the following:
 1. Expectation maximization
 2. Variational methods
 3. Monte Carlo methods
-### Recommended Background
+Recommended Background
 The strongest applicants will have demonstrated interest in one or more of the following areas:
 1. Human biology (e.g. anatomy, physiology, especially cardiovascular)
 2. Signal processing (e.g. Fourier analysis, filter design)
 3. Numerical methods
 4. Optimization
-### Recommended Background
+Recommended Background
 The strongest applicants will have demonstrated interest in one or more of the following areas:
 1. Human biology (e.g. anatomy, physiology, especially cardiovascular)
 2. Signal processing (e.g. Fourier analysis, filter design)
 3. Numerical methods
 4. Optimization
-### Office Hours
+Office Hours
 - Feb 7, 4-5pm, Coda building (room TBD)
 - Feb 10, 11am-12pm, Coda building (room TBD)
 
@@ -1180,12 +1224,13 @@ Key Tasks for the Intern
 
 Why This Matters?
 Our previous results indicate that post-processing concept structures improves model robustness and better matches human intuition. If we can successfully extend this method to decoder-based models, it will further support the argument that concept-aware processing is a generalizable improvement for LLMs, with potential applications in reasoning, planning, and decision-making.
+
 Compensation Type: paid
 Contact Professor: Dan Jurafsky
 Field of Research: ai, hci
-### Prereqs
+Prereqs
 Stanford students interested in this research project should have a strong background in NLP and Deep Learning (CS 224N) and Machine Learning (CS 236/CS 229). Past experience in NLP / Deep Learning is a plus. Additionally, proficiency in programming (especially in PyTorch), familiarity with popular deep learning frameworks, and strong self-motivation are required.
-### Recommended Background
+Recommended Background
 This project is ideal for students with:
 
 * Experience in deep learning and NLP, particularly transformer architectures. 
@@ -1193,7 +1238,7 @@ This project is ideal for students with:
 * Proficiency in Python and deep learning frameworks (e.g., PyTorch, TensorFlow). 
 * Interest in cognitive modeling, human-like AI reasoning, and model interpretability.
 The project involves non-trivial adaptation work, requiring creativity and a deep understanding of LLM architectures. If you're interested in pushing the boundaries of concept-aware AI, we'd love to hear from you!
-### Recommended Background
+Recommended Background
 This project is ideal for students with:
 
 * Experience in deep learning and NLP, particularly transformer architectures. 
@@ -1201,7 +1246,7 @@ This project is ideal for students with:
 * Proficiency in Python and deep learning frameworks (e.g., PyTorch, TensorFlow). 
 * Interest in cognitive modeling, human-like AI reasoning, and model interpretability.
 The project involves non-trivial adaptation work, requiring creativity and a deep understanding of LLM architectures. If you're interested in pushing the boundaries of concept-aware AI, we'd love to hear from you!
-### Office Hours
+Office Hours
 Friday Feb 7, 10:30-11:30am, GATES 323
 Tuesday Feb 11, 1-2pm, GATES 323
 Thursday Feb 13, 10-11am, GATES 323
@@ -1213,24 +1258,25 @@ Please email if you’re planning to come for headcount purposes. Thanks!
 > The Smart Primer research team is developing narrative-driven experiences that engage students to learn in the real world. We design and create educational experiences where students can interact with and learn about the physical world around them, mediated by a mobile or tablet device that intelligently adapts the story based on the students' inputs, preferences, and physical environment.
 
 We are looking for student researchers this summer to help with developing our mobile app (built in Unity/C#), refining our LLM architecture, and/or running a user study of our app.
+
 Compensation Type: paid
 Contact Professor: James A Landay
 Field of Research: hci
-### Prereqs
+Prereqs
 Strong programming experience, demonstrated interest in education, and willingness to work with children (our likely audience)
-### Recommended Background
+Recommended Background
 The strongest applicants will have experience in at least one of the following areas: 
 (1) Unity development (experience in developing with AR in Unity is a plus)
 (2) LLM prompting (experience developing larger systems that do more than just prompt LLMs is a plus)
 (3) Human-computer interaction techniques and principles, e.g. CS 147 or CS 247x series
 (4) Educational software development, including relevant personal projects
-### Recommended Background
+Recommended Background
 The strongest applicants will have experience in at least one of the following areas: 
 (1) Unity development (experience in developing with AR in Unity is a plus)
 (2) LLM prompting (experience developing larger systems that do more than just prompt LLMs is a plus)
 (3) Human-computer interaction techniques and principles, e.g. CS 147 or CS 247x series
 (4) Educational software development, including relevant personal projects
-### Office Hours
+Office Hours
 TBD
 
 
@@ -1243,24 +1289,25 @@ In this project, we will think more deeply about the type of grounding robot pol
 3. Can we develop new grounding objectives to unlock better transfer from cross-embodiment robot data? (i.e. data from different robots, humans, etc.)
 
 You will work with PhD students in ILIAD (Intelligent and Interactive Autonomous Systems Group) with Professor Dorsa Sadigh. The project involves both simulation-based research and hands-on work with real-world robots in the lab.
+
 Compensation Type: paid
 Contact Professor: Dorsa Sadigh
 Field of Research: robotics, ai
-### Prereqs
+Prereqs
 CS 221, CS 229
-### Recommended Background
+Recommended Background
 Students should have an interest working with real-world robots. Experience with Python programming, machine learning (e.g., CS229, CS221), and a deep learning framework such as PyTorch is required.
 The following are a huge plus:
 - Experience in reinforcement learning or imitation learning (e.g., CS224R)
 - Experience working on significant programming projects
 - Experience working with robots in simulation or the real world
-### Recommended Background
+Recommended Background
 Students should have an interest working with real-world robots. Experience with Python programming, machine learning (e.g., CS229, CS221), and a deep learning framework such as PyTorch is required.
 The following are a huge plus:
 - Experience in reinforcement learning or imitation learning (e.g., CS224R)
 - Experience working on significant programming projects
 - Experience working with robots in simulation or the real world
-### Office Hours
+Office Hours
 February 10, 1pm-2pm Gates 210
 
 
@@ -1276,19 +1323,20 @@ Examples of possible projects could include:
 * Developing applications to demonstrate complex, real-world use-cases for network traffic analysis
 * Implementing requested features and fixes, such as multi-core callback scheduling, database integration, optimized memory usage for UDP traffic, parallel RegEx search, handling encapsulated traffic, etc.
 * Developing functionality testing infrastructure to maintain the open-source codebase
+
 Compensation Type: paid
 Contact Professor: Zakir Durumeric
 Field of Research: networking, security, operating_systems
-### Prereqs
+Prereqs
 * Systems programming experience at the level of at least one advanced systems course (e.g., CS144, CS140) and/or work experience
 * Background knowledge in networking through CS144 or equivalent
 * Experience programming in Rust OR willingness to work with us in the spring (for 3 units of academic credit or, if eligible and pre-arranged, federal work-study funding)
 * It is helpful, but not required, to have some background in network security (e.g., CS155 or equivalent).
-### Recommended Background
+Recommended Background
 See prerequisites.
-### Recommended Background
+Recommended Background
 See prerequisites.
-### Office Hours
+Office Hours
 Tuesday 2-3pm (2/4 only) - CoDA E303 
 Wednesday 10-11am (2/5, 2/12) - CoDA E303
 Or arranged by email
@@ -1334,43 +1382,45 @@ References
 8.	Zhang, Yuxiang, et al. "4D association graph for realtime multi-person motion capture using multiple video cameras." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020.
 9.	Bhatnagar, Bharat Lal, et al. "Behave: Dataset and method for tracking human object interactions." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
 10.	Goyal, Raghav, et al. "The" something something" video database for learning and evaluating visual common sense." Proceedings of the IEEE international conference on computer vision. 2017.
+
 Compensation Type: paid
 Contact Professor: Ehsan Adeli
 Field of Research: ai, vision
-### Prereqs
+Prereqs
 •	Strong programming skills in Python
 •	Experience with deep learning frameworks (e.g., PyTorch, TensorFlow)
 •	Familiarity with computer vision and convex optimization
 •	Basic knowledge of data collection and preprocessing
 •	Ability to work with multi-modal data (e.g., video, text, motion)
-### Recommended Background
+Recommended Background
 Prior experience with human motion modeling or 3D/4D reconstruction
 •	Understanding of multi-person and human-object interaction modeling
 •	Coursework or research in computer vision, machine learning, or deep learning
 •	Experience with data annotation tools and large-scale dataset curation
 •	Experience using large language models (LLMs) (e.g., GPT) and designing effective prompts for tasks such as data augmentation, annotation, or interaction modeling
-### Recommended Background
+Recommended Background
 Prior experience with human motion modeling or 3D/4D reconstruction
 •	Understanding of multi-person and human-object interaction modeling
 •	Coursework or research in computer vision, machine learning, or deep learning
 •	Experience with data annotation tools and large-scale dataset curation
 •	Experience using large language models (LLMs) (e.g., GPT) and designing effective prompts for tasks such as data augmentation, annotation, or interaction modeling
-### Office Hours
+Office Hours
 Feb 12, 2-3pm, Gates 280
 
 
 ## Distributed Library Development in Legion
 > The goal of this project is to create a usable partitioning library for graph and mesh data structures for applications developed in the Legion runtime system. The project would entail using the METIS/ParMETIS libraries in conjunction with Legion to develop a friendly user-facing library that external projects may use.
+
 Compensation Type: paid
 Contact Professor: Alex Aiken
 Field of Research: scientific_computing, distributed_systems
-### Prereqs
+Prereqs
 Parallel computing experience (something like CS149) would be good.
-### Recommended Background
+Recommended Background
 Background in parallel or distributed programming is desired.
-### Recommended Background
+Recommended Background
 Background in parallel or distributed programming is desired.
-### Office Hours
+Office Hours
 Wednesdays, 2-4PM, Gates 494
 Thursdays, 2-4PM, Gates 494
 
@@ -1379,46 +1429,49 @@ Thursdays, 2-4PM, Gates 494
 > As large language models become ever more popular, worrisome patterns are emerging: what happens when models produce fluent but bland writing, or when they produce arguments that sound plausible but don’t align with our views? We’re trending towards a future of AI that allows users to efficiently carry out more tasks than ever—but only in the same way as everyone else. How could powerful modern AI systems not lead users to efficiently converge, but empower them to creatively diverge—to maintain and even amplify their unique voice? 
 
 In this project, we will be exploring how we can promote more divergent thinking through many pluralistic, specialized AI models rather than a monolithic, generic model. We will build interactive systems for everyday, non-technical users to create and orchestrate custom AI teams to amplify their creative vision. For example, a young writer could set up a team of their favorite short story authors and get their take on early story ideas; a researcher could build a team of professors trained in different experimental methods to review their paper draft; or student could assemble a team of foundational figures in psychology to debate about the student’s essay topic. We will explore the broad design space of methods for: instantiating and selecting AI team members, determining how these AI teams collaborate, and demonstrating novel interactions that can be unlocked once we have these dynamic, personalized teams of AI models. The project will develop both new interfaces and new algorithms—all in service of improving everyday users’ expressivity and sense of ownership over AI systems.
+
 Compensation Type: paid
 Contact Professor: Michael Bernstein
 Field of Research: hci, ai
-### Prereqs
+Prereqs
 This project will involve both the development of new algorithms and technical approaches to instantiate our models, as well as the creation of new interfaces and visualizations for our interactive system. Thus, we recommend a solid foundation of experience in at least one of these areas:
 (1) Experience with Python, computational notebooks, and LLM-based applications
 (2) Experience with web development (ex: tools like React or Svelte, Flask, HTML/CSS/JavaScript)
-### Recommended Background
+Recommended Background
 The ideal candidate is someone who is excited to work on projects at the intersection between HCI and AI! Bonus points if you are interested in topics like democratizing AI development or building tools for thought.
 The following courses are helpful, but not required: HCI courses like CS 147, 247, 347, or 278; AI courses like CS 221,  224N, or 124.
-### Recommended Background
+Recommended Background
 The ideal candidate is someone who is excited to work on projects at the intersection between HCI and AI! Bonus points if you are interested in topics like democratizing AI development or building tools for thought.
 The following courses are helpful, but not required: HCI courses like CS 147, 247, 347, or 278; AI courses like CS 221,  224N, or 124.
-### Office Hours
+Office Hours
 Wed 2/12 10:30-11:15am, CoDa 3rd floor near stairs
 
 
 ## Using AI / Smart Devices to Help Patients with Early Alzheimer's Disease
 > Alzheimer's Disease affects millions of people around the world, and many patients in the early stages of the disease have significant memory deficiencies. One common memory concern is in remembering conversations -- often, after a conversation many details of the conversation are lost.  This project will involve writing a mobile application to leverage AI transcription abilities to provide live transcription of conversations. Ideally, the application would be able to differentiate between multiple parties in discussion, and be able to provide an easy interface for a user to see the transcription.  We will also try to work with the Stanford Alzheimer’s Disease Research Center to test the application with real patients in the early stages of the disease.
+
 Compensation Type: paid
 Contact Professor: Christopher Gregg
 Field of Research: ai, hci, software_engineering
-### Prereqs
+Prereqs
 CS106B, preferably some iOS programming background. CS147L would also be worthwhile.
-### Recommended Background
+Recommended Background
 You should be willing to help write an iOS application for voice transcription, so a solid programming foundation is necessary. Former iOS programming is not required, but you must be willing to spend time learning SwiftUI and iOS programming in general.
-### Recommended Background
+Recommended Background
 You should be willing to help write an iOS application for voice transcription, so a solid programming foundation is necessary. Former iOS programming is not required, but you must be willing to spend time learning SwiftUI and iOS programming in general.
-### Office Hours
+Office Hours
 Tuesdays 2:30pm-3:30pm
 
 
 ## Measuring and Understanding Implications of Human-like AI
 > As language models are increasingly imbued with anthropomorphic (perceived as human-like) traits like personas, politeness, and unique personalities, scholars have raised concerns about how such anthropomorphic system behaviors may lead to harmful outcomes, such as users overrelying on generated text or developing emotional dependence on LLM systems. Potential projects include (1) measuring and understanding adverse impacts of anthropomorphic AI on user agency and how these effects vary across populations and (2) developing NLP methods to steer LLMs to make them have appropriate levels of human-likeness.
+
 Compensation Type: paid
 Contact Professor: Dan Jurafsky
 Field of Research: ai, hci
-### Prereqs
+Prereqs
 N/A
-### Recommended Background
+Recommended Background
 You have demonstrated interest in one or more of the following areas:
 - LLM alignment
 - AI ethics
@@ -1428,7 +1481,7 @@ You have demonstrated interest in one or more of the following areas:
 The following are also recommended:
 - Proficiency in Python and familiarity with deep learning frameworks like PyTorch - Experience with survey design, user studies, and/or statistical analysis
 - Completion of CS200-level courses such as deep learning (CS230) or NLP (CS224n)
-### Recommended Background
+Recommended Background
 You have demonstrated interest in one or more of the following areas:
 - LLM alignment
 - AI ethics
@@ -1438,7 +1491,7 @@ You have demonstrated interest in one or more of the following areas:
 The following are also recommended:
 - Proficiency in Python and familiarity with deep learning frameworks like PyTorch - Experience with survey design, user studies, and/or statistical analysis
 - Completion of CS200-level courses such as deep learning (CS230) or NLP (CS224n)
-### Office Hours
+Office Hours
 Friday Feb 7, 2-3pm, Gates 304,
 Friday Feb 14, 2-3pm, Gates 304,
 or arranged by email (myra1@stanford.edu)
@@ -1453,16 +1506,17 @@ Our goal is to develop a machine learning model that can incorporate experimenta
 In this project, you will learn how to use current state-of-the-art tools for computational drug discovery, and learn about applying machine learning to computational structural biology. You will experiment with applying different machine learning methods, and learn how to evaluate model results in the context of drug discovery and biology. And hopefully, you'll learn cool things and have fun.
 
 If you're interested in biology, machine learning, or drug discovery, apply! Outside of Python experience, no other specific coursework is required, and feel free to contact me with any questions.
+
 Compensation Type: paid
 Contact Professor: Ron Dror
 Field of Research: biocomputation, ai, scientific_computing
-### Prereqs
+Prereqs
 CS106A and CS106B, previous experience / familiarity with Python, and some previous high school biology and chemistry background.
-### Recommended Background
+Recommended Background
 No hard requirements, but a plus if you've taken CS 279 or BIOMEDIN 214.
-### Recommended Background
+Recommended Background
 No hard requirements, but a plus if you've taken CS 279 or BIOMEDIN 214.
-### Office Hours
+Office Hours
 2 - 3 PM on Tuesday, February 11th - Virtual
 
 Virtual Link: https://stanford.zoom.us/j/9141916849?pwd=S1VZeTFrOWJwY0gxVEFGdUlqeXhRUT09
@@ -1519,17 +1573,18 @@ To ensure high-quality, diverse training and evaluation data, UniFormal will sou
 📌 Creates a Structured Roadmap Toward AI That Can Verify the World’s Code.
 
 UniFormal isn’t just a benchmark—it’s the foundation for AI-powered formal verification at scale.
+
 Compensation Type: paid
 Contact Professor: Sanmi Koyejo
 Field of Research: ai, formal_methods_and_verification, programming_languages
-### Prereqs
+Prereqs
 To participate in this project, students should have:
 ✅ Strong programming skills in Python and at least one additional language (e.g., Rust, Coq, Verilog, Lean 4, Dafny).
 ✅ Background in machine learning (ML) and deep learning (PyTorch, JAX, TensorFlow).
 ✅ Experience with large language models (LLMs) and NLP techniques (DSPy knowledge is a plus).
 ✅ Familiarity with formal methods and theorem proving (Lean, Coq, Isabelle, Dafny, TLA+).
 ✅ Basic knowledge of program verification or automated reasoning.
-### Recommended Background
+Recommended Background
 The following experience is not required but will be beneficial:
 🔹 Coursework or research in AI reasoning, NLP, theorem proving, or program synthesis.
 🔹 Familiarity with prompt engineering, DSPy pipelines, or LLM fine-tuning.
@@ -1538,7 +1593,7 @@ The following experience is not required but will be beneficial:
 🔹 Understanding of program synthesis and formal verification frameworks.
 
 Students from diverse backgrounds (ML, formal methods, NLP, or theoretical CS) are encouraged to apply. 🚀
-### Recommended Background
+Recommended Background
 The following experience is not required but will be beneficial:
 🔹 Coursework or research in AI reasoning, NLP, theorem proving, or program synthesis.
 🔹 Familiarity with prompt engineering, DSPy pipelines, or LLM fine-tuning.
@@ -1547,7 +1602,7 @@ The following experience is not required but will be beneficial:
 🔹 Understanding of program synthesis and formal verification frameworks.
 
 Students from diverse backgrounds (ML, formal methods, NLP, or theoretical CS) are encouraged to apply. 🚀
-### Office Hours
+Office Hours
 send me a message and follow these instructions: https://brando90.github.io/brandomiranda/prospective-collaborations.html
 
 
@@ -1588,28 +1643,29 @@ References
 9.	Guzhov, Andrey, et al. "Audioclip: Extending clip to image, text and audio." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022.
 10.	Shi, Mingyi, et al. "It Takes Two: Real-time Co-Speech Two-person's Interaction Generation via Reactive Auto-regressive Diffusion Model." arXiv preprint arXiv:2412.02419 (2024).
 11.	Chen, Zhehuai, et al. "Maestro: Matched speech text representations through modality matching." arXiv preprint arXiv:2204.03409 (2022).
+
 Compensation Type: paid
 Contact Professor: Ehsan Adeli
 Field of Research: ai, vision
-### Prereqs
+Prereqs
 •	Strong programming skills in Python
 •	Experience with deep learning frameworks (e.g., PyTorch, TensorFlow)
 •	Familiarity with computer vision and convex optimization
 •	Basic knowledge of data collection and preprocessing
 •	Ability to work with multi-modal data (e.g., video, text, audio, motion)
-### Recommended Background
+Recommended Background
 •	Prior experience with human motion modeling or 3D/4D reconstruction
 •	Understanding of multi-person and human-object interaction modeling
 •	Coursework or research in computer vision, machine learning, or deep learning
 •	Experience with data annotation tools and large-scale dataset curation
 •	Experience using large language models (LLMs) (e.g., GPT) and designing effective prompts for tasks such as data augmentation, annotation, or interaction modeling
-### Recommended Background
+Recommended Background
 •	Prior experience with human motion modeling or 3D/4D reconstruction
 •	Understanding of multi-person and human-object interaction modeling
 •	Coursework or research in computer vision, machine learning, or deep learning
 •	Experience with data annotation tools and large-scale dataset curation
 •	Experience using large language models (LLMs) (e.g., GPT) and designing effective prompts for tasks such as data augmentation, annotation, or interaction modeling
-### Office Hours
+Office Hours
 Feb 12, 2-3pm, Gates 280
 
 
@@ -1617,16 +1673,17 @@ Feb 12, 2-3pm, Gates 280
 > We seek to create AI agents that can evaluate the user experience of platformer video games. To that end, we have created a large and diverse population of AI agents, each constrained by a unique scene perception or motor skills limitation inspired by typical mistakes of human video game players. We use reinforcement learning to train a policy for each agent that plays as well as possible given the agent's limitations. By comparing the performance of different agents on different games, we are able to make comparative assessments about game difficulty, as well as understand how specific limitations impact performance on specific types of challenges.
 
 We are looking for students to expand this result in two ways. First, we want to use modern AI techniques to increase the capabilities of our agents so that they can play a wide variety of platformer games. Second, we want to investigate how our agents can be used to develop novel tools for use in 3D content creation.
+
 Compensation Type: paid
 Contact Professor: Kayvon Fatahalian
 Field of Research: graphics, ai
-### Prereqs
+Prereqs
 Students should have programming experience in C++ or Python.
-### Recommended Background
+Recommended Background
 Students interested in the AI side of the project should have experience in Reinforcement Learning to the level of CS 234 or CS 224R (though these classes are not required). Students interested in content creation should foremost be passionate about game development---experience using a 3D engine (Unreal Engine, Unity, etc.) is preferred but not required.
-### Recommended Background
+Recommended Background
 Students interested in the AI side of the project should have experience in Reinforcement Learning to the level of CS 234 or CS 224R (though these classes are not required). Students interested in content creation should foremost be passionate about game development---experience using a 3D engine (Unreal Engine, Unity, etc.) is preferred but not required.
-### Office Hours
+Office Hours
 Wednesday, 2pm-3pm, CoDA E370
 
 
@@ -1636,16 +1693,15 @@ Wednesday, 2pm-3pm, CoDA E370
 We often think about the theory of design as a cyclical refinement of creating some notion of a prototype, and evaluating how well the prototype works, then trying to come up with a new prototype based on what we've done. It seems  that reinforcement learning methods also follow a similar process. But is it better than people? Worse? Can technical methods benefit from human-centered methods?
 
 This project will be in the early stages of development.  Interested students will have a substantial impact on the trajectory of the project and work closely with a PhD student.  It will involve a combination of methods including human-subject experiments, experimental design, graphic design, systems building, and some machine learning theory.  The project will likely continue on beyond the summer but intern participation beyond the CURIS period is not required.
+
 Compensation Type: paid
 Contact Professor: Michael Bernstein
 Field of Research: hci, ai
-### Prereqs
+Prereqs
 This project is best suited for people who are interested in human-centered design and generally interested in HCI. Human-AI-Interaction is part of the project, but this is a project deeply motivated from a human-first perspective.
-### Recommended Background
+Recommended Background
 Students with a background with web programming or game development experience are desirable but not required.  Additionally, taking a course in machine learning (CS229) and/or reinforcement learning (CS234)  is beneficial. A majority of the machine learning will be focused on theory.
-### Recommended Background
+Recommended Background
 Students with a background with web programming or game development experience are desirable but not required.  Additionally, taking a course in machine learning (CS229) and/or reinforcement learning (CS234)  is beneficial. A majority of the machine learning will be focused on theory.
-### Office Hours
+Office Hours
 Tue Feb 11 and Thurs Feb 13 from  10-11:30a
-
-
