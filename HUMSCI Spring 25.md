@@ -1,4 +1,0 @@
-#Humanities & Sciences (HUMSCI) Courses Spring 25
-Courses in the HUMSCI Department offered this spring at Stanford
-## HUMSCI 2: Dangerous Ideas (ARTHIST 36, COMPLIT 36A, EALC 36, ENGLISH 71, ETHICSOC 36X, FRENCH 36, HISTORY 3D, MUSIC 36H, PHIL 36, POLISCI 70, RELIGST 36X, SLAVIC 36, TAPS 36)
-This course explores the power and impact of influential ideas, such as tradition and decolonization, that have shaped human experience and continue to spark debates. Through weekly lectures by faculty members from various humanities and arts departments, students will examine the significance and contested nature of these "dangerous" ideas.
