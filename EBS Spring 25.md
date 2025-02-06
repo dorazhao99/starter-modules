@@ -1,0 +1,18 @@
+#Environmental Behavioral Science (EBS) Courses Spring 25
+Courses in the EBS Department offered this spring at Stanford
+## EBS 130: Sustainability, Governance, and Economic Development in SE Asia (ETHICSOC 125H, GLOBAL 126, HUMRTS 125, INTLPOL 225A, INTNLREL 126)
+This course explores the challenges and opportunities faced by Southeast Asian nations as they balance economic development with sustainability, addressing issues like climate change and environmental degradation. Through case studies and guest speakers, students will examine the role of governance, policy, and regional cooperation in shaping the region's future.
+## EBS 182: Agent-based modeling (EBS 282)
+This course teaches students to construct agent-based models to predict the transmission of sustainable behaviors through social networks, using techniques from psychology, sociology, and network science. Students will learn to program these models using R and related tools, and develop skills in high-performance computing, data science, and version control.
+## EBS 198: Directed Individual Study in Social Science
+This course involves independent study under the supervision of a Social Science Division faculty member on a topic of mutual interest. Students work one-on-one with a faculty member to explore a subject in-depth.
+## EBS 222: Philanthropy for Sustainable Development (ETHICSOC 232T, POLISCI 236, POLISCI 236S)
+This course teaches students how to effectively pursue social change through philanthropy, focusing on sustainable development and applying knowledge to make a substantial contribution to nonprofit organizations. By the end of the course, students will understand the fundamentals of philanthropy, including defining problems, developing a theory of change, and evaluating outcomes.
+## EBS 235: Sustainability Changemakers: UK
+This course, held at Oxford University, provides an overview of global sustainability challenges and offers a unique blend of classroom instruction and field experiences to help students develop a deeper understanding of these issues. Through this course, students will learn to analyze sustainability challenges from multiple perspectives, including behavioral, technical, and moral lenses, to become effective leaders in addressing these global problems.
+## EBS 282: Agent-based modeling (EBS 182)
+This course teaches students how to construct agent-based models to predict the transmission of sustainable behaviors through social networks, using techniques from psychology, sociology, and network science. Students will learn transferable technical skills, including programming in R, data science, and high-performance computing, to analyze and simulate complex social systems.
+## EBS 298: Directed Individual Study in Social Science
+This course involves independent study and research under the supervision of a Social Science Division faculty member on a topic of mutual interest. Students work one-on-one with a faculty member to explore a subject in-depth.
+## EBS 321: Organizations and Sustainability
+This course examines the role of organizations in environmental sustainability, exploring how their behavior can impact and mitigate the far-reaching consequences of human activity on the earth's ecosystem. It provides PhD students with a comprehensive understanding of organization theory and its application to sustainability, preparing them for research careers in academia or industry.
