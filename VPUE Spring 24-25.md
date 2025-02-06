@@ -898,4 +898,3 @@ Hours spent: 3.42
 Average Rating: 4.6
 2 units
 Tuesday 4:30:00 PM-5:50:00 PM
-(toolenv) dorothyz@sc:/nlp/u/dorothyz/make_modules$ 
