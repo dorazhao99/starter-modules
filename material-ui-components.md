@@ -28,32 +28,32 @@ import AccordionDetails from '@mui/material/AccordionDetails';
 import AccordionSummary from '@mui/material/AccordionSummary';
 ```
 
-## Expand icon
+ Expand icon
 
 Use the `expandIcon` prop on the Accordion Summary component to change the expand indicator icon.
 The component handles the turning upside-down transition automatically.
 
 {{"demo": "AccordionExpandIcon.js", "bg": true}}
 
-## Expanded by default
+ Expanded by default
 
 Use the `defaultExpanded` prop on the Accordion component to have it opened by default.
 
 {{"demo": "AccordionExpandDefault.js", "bg": true}}
 
-## Transition
+ Transition
 
 Use the `slots.transition` and `slotProps.transition` props to change the Accordion's default transition.
 
 {{"demo": "AccordionTransition.js", "bg": true}}
 
-## Disabled item
+ Disabled item
 
 Use the `disabled` prop on the Accordion component to disable interaction and focus.
 
 {{"demo": "DisabledAccordion.js", "bg": true}}
 
-## Controlled Accordion
+ Controlled Accordion
 
 The Accordion component can be controlled or uncontrolled.
 
@@ -69,14 +69,14 @@ Learn more about controlled and uncontrolled components in the [React documentat
 
  Customization
 
-## Only one expanded at a time
+ Only one expanded at a time
 
 Use the `expanded` prop with React's `useState` hook to allow only one Accordion item to be expanded at a time.
 The demo below also shows a bit of visual customization.
 
 {{"demo": "CustomizedAccordions.js", "bg": true}}
 
-## Changing heading level
+ Changing heading level
 
 By default, the Accordion uses an `h3` element for the heading. You can change the heading element using the `slotProps.heading.component` prop to ensure the correct heading hierarchy in your document.
 
@@ -160,7 +160,7 @@ The Material UI Alert component includes several props for quickly customizing 
 This component is no longer documented in the [Material Design guidelines](https://m2.material.io/), but Material UI will continue to support it.
 :::
 
-## Usage
+ Usage
 
 A key trait of the alert pattern is that [it should not interrupt the user's experience](https://www.w3.org/WAI/ARIA/apg/patterns/alert/) of the app.
 Alerts should not be confused with alert _dialogs_ ([ARIA](https://www.w3.org/WAI/ARIA/apg/patterns/alertdialog/)), which _are_ intended to interrupt the user to obtain a response.
@@ -174,13 +174,13 @@ import Alert from '@mui/material/Alert';
 
 The Alert component wraps around its content, and stretches to fill its enclosing container.
 
-## Severity
+ Severity
 
 The `severity` prop accepts four values representing different states—`success` (the default), `info`, `warning`, and `error`–with corresponding icon and color combinations for each:
 
 {{"demo": "BasicAlerts.js"}}
 
-## Variants
+ Variants
 
 The Alert component comes with two alternative style options—`filled` and `outlined`—which you can set using the `variant` prop.
 
@@ -203,13 +203,13 @@ You can prevent this by adding `bgcolor: 'background.paper'` to [the `sx` prop](
 Check out the [Snackbar—customization](/material-ui/react-snackbar/##customization) doc for an example of how to use these two components together.
 :::
 
-## Color
+ Color
 
 Use the `color` prop to override the default color for the specified [`severity`](##severity)—for instance, to apply `warning` colors to a `success` Alert:
 
 {{"demo": "ColorAlerts.js"}}
 
-## Actions
+ Actions
 
 Add an action to your Alert with the `action` prop.
 This lets you insert any element—an HTML tag, an SVG icon, or a React component such as a Material UI Button—after the Alert's message, justified to the right.
@@ -218,7 +218,7 @@ If you provide an `onClose` callback to the Alert without setting the `action` p
 
 {{"demo": "ActionAlerts.js"}}
 
-## Icons
+ Icons
 
 Use the `icon` prop to override an Alert's icon.
 As with the [`action`](##actions) prop, your `icon` can be an HTML element, an SVG icon, or a React component.
@@ -231,7 +231,7 @@ You can define this prop globally by customizing your app's theme. See [Theme co
 
  Customization
 
-## Titles
+ Titles
 
 To add a title to an Alert, import the Alert Title component:
 
@@ -243,7 +243,7 @@ You can nest this component above the message in your Alert for a neatly styled 
 
 {{"demo": "DescriptionAlerts.js"}}
 
-## Transitions
+ Transitions
 
 You can use [Transition components](/material-ui/transitions/) like [Collapse](/material-ui/transitions/##collapse) to add motion to an Alert's entrance and exit.
 
@@ -369,25 +369,25 @@ function App() {
 
 You can use the `useScrollTrigger()` hook to respond to user scroll actions.
 
-## Hide App bar
+ Hide App bar
 
 The app bar hides on scroll down to leave more space for reading.
 
 {{"demo": "HideAppBar.js", "iframe": true, "disableLiveEdit": true}}
 
-## Elevate App bar
+ Elevate App bar
 
 The app bar elevates on scroll to communicate that the user is not at the top of the page.
 
 {{"demo": "ElevateAppBar.js", "iframe": true, "disableLiveEdit": true}}
 
-## Back to top
+ Back to top
 
 A floating action button appears on scroll to make it easy to get back to the top of the page.
 
 {{"demo": "BackToTop.js", "iframe": true, "disableLiveEdit": true}}
 
-## `useScrollTrigger([options]) => trigger`
+ `useScrollTrigger([options]) => trigger`
 
  Arguments
 
@@ -425,7 +425,7 @@ You can override this behavior by setting the `enableColorOnDark` prop to `true`
 
  Toolpad (Beta)
 
-## Dashboard Layout
+ Dashboard Layout
 
 The [DashboardLayout](https://mui.com/toolpad/core/react-dashboard-layout/) component from `@toolpad/core` is the starting point for dashboarding applications. It takes care of application layout, theming, navigation, and more. An example usage of this component:
 
@@ -450,7 +450,7 @@ The value must be chosen from a predefined set of allowed values.
 
 {{"demo": "ComboBox.js"}}
 
-## Options structure
+ Options structure
 
 By default, the component accepts the following options structures:
 
@@ -477,19 +477,19 @@ However, you can use different structures by providing a `getOptionLabel` prop.
 
 If your options are objects, you must provide the `isOptionEqualToValue` prop to ensure correct selection and highlighting. By default, it uses strict equality to compare options with the current value.
 
-## Playground
+ Playground
 
 Each of the following examples demonstrates one feature of the Autocomplete component.
 
 {{"demo": "Playground.js"}}
 
-## Country select
+ Country select
 
 Choose one of the 248 countries.
 
 {{"demo": "CountrySelect.js"}}
 
-## Controlled states
+ Controlled states
 
 The component has two states that can be controlled:
 
@@ -533,7 +533,7 @@ The fix includes memoizing the value, so it changes only when needed.
 
 Set `freeSolo` to true so the textbox can contain any arbitrary value.
 
-## Search input
+ Search input
 
 The prop is designed to cover the primary use case of a **search input** with suggestions, for example Google search or react-autowhatever.
 
@@ -545,7 +545,7 @@ Be careful when using the free solo mode with non-string options, as it may caus
 The value created by typing into the textbox is always a string, regardless of the type of the options.
 :::
 
-## Creatable
+ Creatable
 
 If you intend to use this mode for a [combo box](##combo-box) like experience (an enhanced version of a select element) we recommend setting:
 
@@ -603,7 +603,7 @@ import useAutocomplete from '@mui/material/useAutocomplete';
 
 {{"demo": "UseAutocomplete.js", "defaultCodeOpen": false}}
 
-## Customized hook
+ Customized hook
 
 {{"demo": "CustomizedHook.js"}}
 
@@ -616,13 +616,13 @@ The component supports two different asynchronous use-cases:
 - [Load on open](##load-on-open): it waits for the component to be interacted with to load the options.
 - [Search as you type](##search-as-you-type): a new request is made for each keystroke.
 
-## Load on open
+ Load on open
 
 It displays a progress state as long as the network request is pending.
 
 {{"demo": "Asynchronous.js"}}
 
-## Search as you type
+ Search as you type
 
 If your logic is fetching new options on each keystroke and using the current value of the textbox
 to filter on the server, you may want to consider throttling requests.
@@ -634,7 +634,7 @@ overriding the `filterOptions` prop:
 <Autocomplete filterOptions={(x) => x} />
 ```
 
-## Google Maps place
+ Google Maps place
 
 A customized UI for Google Maps Places Autocomplete.
 For this demo, we need to load the [Google Maps JavaScript](https://developers.google.com/maps/documentation/javascript/overview) and [Google Places](https://developers.google.com/maps/documentation/places/web-service/overview) API.
@@ -655,17 +655,17 @@ Also known as tags, the user is allowed to enter more than one value.
 
 {{"demo": "Tags.js"}}
 
-## Fixed options
+ Fixed options
 
 In the event that you need to lock certain tags so that they can't be removed, you can set the chips disabled.
 
 {{"demo": "FixedTags.js"}}
 
-## Checkboxes
+ Checkboxes
 
 {{"demo": "CheckboxesTags.js"}}
 
-## Limit tags
+ Limit tags
 
 You can use the `limitTags` prop to limit the number of displayed options when not focused.
 
@@ -679,7 +679,7 @@ Fancy smaller inputs? Use the `size` prop.
 
  Customization
 
-## Custom input
+ Custom input
 
 The `renderInput` prop allows you to customize the rendered input.
 The first argument of this render prop contains props that you need to forward.
@@ -691,7 +691,7 @@ If you're using a custom input component inside the Autocomplete, make sure that
 
 {{"demo": "CustomInputAutocomplete.js"}}
 
-## Globally Customized Options
+ Globally Customized Options
 
 To globally customize the Autocomplete options for all components in your app,
 you can use the [theme default props](/material-ui/customization/theme-components/##theme-default-props) and set the `renderOption` property in the `defaultProps` key.
@@ -701,7 +701,7 @@ This approach enables different options for each Autocomplete component while ke
 
 {{"demo": "GloballyCustomizedOptions.js"}}
 
-## GitHub's picker
+ GitHub's picker
 
 This demo reproduces GitHub's label picker:
 
@@ -709,7 +709,7 @@ This demo reproduces GitHub's label picker:
 
 Head to the [Customized hook](##customized-hook) section for a customization example with the `useAutocomplete` hook instead of the component.
 
-## Hint
+ Hint
 
 The following demo shows how to add a hint feature to the Autocomplete:
 
@@ -730,7 +730,7 @@ You can use it to change the default option filter behavior.
 import { createFilterOptions } from '@mui/material/Autocomplete';
 ```
 
-## `createFilterOptions(config) => filterOptions`
+ `createFilterOptions(config) => filterOptions`
 
  Arguments
 
@@ -760,7 +760,7 @@ const filterOptions = createFilterOptions({
 
 {{"demo": "Filter.js", "defaultCodeOpen": false}}
 
-## Advanced
+ Advanced
 
 For richer filtering mechanisms, like fuzzy matching, it's recommended to look at [match-sorter](https://github.com/kentcdodds/match-sorter). For instance:
 
@@ -796,7 +796,7 @@ If you would like to prevent the default key handler behavior, you can set the e
 
  Limitations
 
-## autocomplete/autofill
+ autocomplete/autofill
 
 Browsers have heuristics to help the user fill in form inputs.
 However, this can harm the UX of the component.
@@ -823,12 +823,12 @@ In the event you want the avoid autofill, you can try the following:
 
 Read [the guide on MDN](https://developer.mozilla.org/en-US/docs/Web/Security/Practical_implementation_guides/Turning_off_form_autocompletion) for more details.
 
-## iOS VoiceOver
+ iOS VoiceOver
 
 VoiceOver on iOS Safari doesn't support the `aria-owns` attribute very well.
 You can work around the issue with the `disablePortal` prop.
 
-## ListboxComponent
+ ListboxComponent
 
 If you provide a custom `ListboxComponent` prop, you need to make sure that the intended scroll container has the `role` attribute set to `listbox`. This ensures the correct behavior of the scroll, for example when using the keyboard to navigate.
 
@@ -896,13 +896,13 @@ If there is an error loading the avatar image, the component falls back to an al
 
 {{"demo": "GroupAvatars.js"}}
 
-## Total avatars
+ Total avatars
 
 If you need to control the total number of avatars not shown, you can use the `total` prop.
 
 {{"demo": "TotalAvatars.js"}}
 
-## Custom surplus
+ Custom surplus
 
 Set the `renderSurplus` prop as a callback to customize the surplus avatar. The callback will receive the surplus number as an argument based on the children and the `max` prop, and should return a `React.ReactNode`.
 
@@ -910,7 +910,7 @@ The `renderSurplus` prop is useful when you need to render the surplus based on 
 
 {{"demo": "CustomSurplusAvatars.js"}}
 
-## Spacing
+ Spacing
 
 You can change the spacing between avatars using the `spacing` prop. You can use one of the presets (`"medium"`, the default, or `"small"`) or set a custom numeric value.
 
@@ -1045,7 +1045,7 @@ Here is a [more detailed guide](/material-ui/integrations/routing/).
 The Box component is a generic container for grouping other components.
 It's a fundamental building block when working with Material UI—you can think of it as a `<div>` with extra built-in features, like access to your app's theme and the [`sx` prop](/system/getting-started/the-sx-prop/).
 
-## Usage
+ Usage
 
 The Box component differs from other containers available in Material UI in that its usage is intended to be multipurpose and open-ended, just like a `<div>`.
 Components like [Container](/material-ui/react-container/), [Stack](/material-ui/react-stack/) and [Paper](/material-ui/react-paper/), by contrast, feature usage-specific props that make them ideal for certain use cases: Container for main layout orientation, Stack for one-dimensional layouts, and Paper for elevated surfaces.
@@ -1063,14 +1063,14 @@ The demo below replaces the `<div>` with a `<section>` element:
 
  Customization
 
-## With the sx prop
+ With the sx prop
 
 Use the [`sx` prop](/system/getting-started/the-sx-prop/) to quickly customize any Box instance using a superset of CSS that has access to all the style functions and theme-aware properties exposed in the MUI System package.
 The demo below shows how to apply colors from the theme using this prop:
 
 {{"demo": "BoxSx.js", "defaultCodeOpen": true }}
 
-## With MUI System props
+ With MUI System props
 
 :::info
 System props are deprecated and will be removed in the next major release. Please use the `sx` prop instead.
@@ -1153,7 +1153,7 @@ The accessibility of this component relies on:
 
  Toolpad (Beta)
 
-## Page Container
+ Page Container
 
 The [PageContainer](https://mui.com/toolpad/core/react-page-container/) component in `@toolpad/core` is the ideal wrapper for the content of your dashboard. It makes the Material UI Container navigation-aware and extends it with page title, breadcrumbs, actions, and more.
 
@@ -1227,7 +1227,7 @@ The `Button` comes with three variants: text (default), contained, and outlined.
 
 {{"demo": "BasicButtons.js"}}
 
-## Text button
+ Text button
 
 [Text buttons](https://m2.material.io/components/buttons##text-button)
 are typically used for less-pronounced actions, including those located: in dialogs, in cards.
@@ -1235,7 +1235,7 @@ In cards, text buttons help maintain an emphasis on card content.
 
 {{"demo": "TextButtons.js"}}
 
-## Contained button
+ Contained button
 
 [Contained buttons](https://m2.material.io/components/buttons##contained-button)
 are high-emphasis, distinguished by their use of elevation and fill.
@@ -1247,7 +1247,7 @@ You can remove the elevation with the `disableElevation` prop.
 
 {{"demo": "DisableElevation.js"}}
 
-## Outlined button
+ Outlined button
 
 [Outlined buttons](https://m2.material.io/components/buttons##outlined-button) are medium-emphasis buttons.
 They contain actions that are important but aren't the primary action in an app.
@@ -1300,25 +1300,25 @@ deselected, such as adding or removing a star to an item.
 
 {{"demo": "IconButtons.js"}}
 
-## Sizes
+ Sizes
 
 For larger or smaller icon buttons, use the `size` prop.
 
 {{"demo": "IconButtonSizes.js"}}
 
-## Colors
+ Colors
 
 Use `color` prop to apply theme color palette to component.
 
 {{"demo": "IconButtonColors.js"}}
 
-## Loading
+ Loading
 
 Starting from v6.4.0, use `loading` prop to set icon buttons in a loading state and disable interactions.
 
 {{"demo": "LoadingIconButton.js"}}
 
-## Badge
+ Badge
 
 You can use the [`Badge`](/material-ui/react-badge/) component to add a badge to an `IconButton`.
 
@@ -1375,7 +1375,7 @@ Here is a [more detailed guide](/material-ui/integrations/routing/##button).
 
  Limitations
 
-## Cursor not-allowed
+ Cursor not-allowed
 
 The ButtonBase component sets `pointer-events: none;` on disabled buttons, which prevents the appearance of a disabled cursor.
 
@@ -1438,7 +1438,7 @@ import CardContent from '@mui/material/CardContent';
 Although cards can support multiple actions, UI controls, and an overflow menu, use restraint and remember that cards are meant to be entry points to more complex and detailed information.
 :::
 
-## Outlined Card
+ Outlined Card
 
 Set `variant="outlined"` to render an outlined card.
 
@@ -1617,23 +1617,23 @@ You can use the following actions.
 - Chips with the `onClick` prop defined change appearance on focus, hover, and click.
 - Chips with the `onDelete` prop defined will display a delete icon which changes appearance on hover.
 
-## Clickable
+ Clickable
 
 {{"demo": "ClickableChips.js"}}
 
-## Deletable
+ Deletable
 
 {{"demo": "DeletableChips.js"}}
 
-## Clickable and deletable
+ Clickable and deletable
 
 {{"demo": "ClickableAndDeletableChips.js"}}
 
-## Clickable link
+ Clickable link
 
 {{"demo": "ClickableLinkChips.js"}}
 
-## Custom delete icon
+ Custom delete icon
 
 {{"demo": "CustomDeleteIconChips.js"}}
 
@@ -1643,11 +1643,11 @@ You can add ornaments to the beginning of the component.
 
 Use the `avatar` prop to add an avatar or use the `icon` prop to add an icon.
 
-## Avatar chip
+ Avatar chip
 
 {{"demo": "AvatarChips.js"}}
 
-## Icon chip
+ Icon chip
 
 {{"demo": "IconChips.js"}}
 
@@ -1731,7 +1731,7 @@ The max-width matches the min-width of the current breakpoint.
 
  Toolpad (Beta)
 
-## Page Container
+ Page Container
 
 The [PageContainer](https://mui.com/toolpad/core/react-page-container/) component in `@toolpad/core` is the ideal wrapper for the content of your dashboard. It makes the Material UI Container navigation-aware and extends it with page title, breadcrumbs, actions, and more.
 
@@ -1785,7 +1785,7 @@ export default function MyApp() {
 
  Approach
 
-## Page
+ Page
 
 The `<html>` and `<body>` elements are updated to provide better page-wide defaults. More specifically:
 
@@ -1795,13 +1795,13 @@ The `<html>` and `<body>` elements are updated to provide better page-wide defau
 - If `enableColorScheme` is provided to `CssBaseline`, native components color will be set by applying [`color-scheme`](https://web.dev/articles/color-scheme) on `<html>`.
   The value used is provided by the theme property `theme.palette.mode`.
 
-## Layout
+ Layout
 
 - `box-sizing` is set globally on the `<html>` element to `border-box`.
   Every element—including `*::before` and `*::after` are declared to inherit this property,
   which ensures that the declared width of the element is never exceeded due to padding or border.
 
-## Scrollbars
+ Scrollbars
 
 :::error
 This API is deprecated.
@@ -1826,7 +1826,7 @@ const theme = createTheme({
 
 Be aware, however, that using this utility (and customizing `-webkit-scrollbar`) forces macOS to always show the scrollbar.
 
-## Color scheme
+ Color scheme
 
 This API is introduced in @mui/material (v5.1.0) for switching between `"light"` and `"dark"` modes of native components such as scrollbar, using the `color-scheme` CSS property.
 To enable it, you can set `enableColorScheme=true` as follows:
@@ -1841,7 +1841,7 @@ To enable it, you can set `enableColorScheme=true` as follows:
 </ScopedCssBaseline>
 ```
 
-## Typography
+ Typography
 
 - No base font-size is declared on the `<html>`, but 16px is assumed (the browser default).
   You can learn more about the implications of changing the `<html>` default font size in [the theme documentation](/material-ui/customization/typography/##html-font-size) page.
@@ -2002,7 +2002,7 @@ Follow the [Modal limitations section](/material-ui/react-modal/##limitations).
 
 For more advanced use cases you might be able to take advantage of:
 
-## material-ui-confirm
+ material-ui-confirm
 
 ![stars](https://img.shields.io/github/stars/jonatanklosko/material-ui-confirm?style=social&label=Star)
 ![npm downloads](https://img.shields.io/npm/dm/material-ui-confirm.svg)
@@ -2015,7 +2015,7 @@ Follow the [Modal accessibility section](/material-ui/react-modal/##accessibilit
 
  Toolpad (Beta)
 
-## useDialogs
+ useDialogs
 
 You can create and manipulate dialogs imperatively with the [`useDialogs()`](https://mui.com/toolpad/core/react-use-dialogs/) API in `@toolpad/core`. This hook handles
 
@@ -2073,25 +2073,25 @@ The Material UI Divider component renders as a dark gray `<hr>` by default, and
 import Divider from '@mui/material/Divider';
 ```
 
-## Variants
+ Variants
 
 The Divider component supports three variants: `fullWidth` (default), `inset`, and `middle`.
 
 {{"demo": "DividerVariants.js", "bg": true}}
 
-## Orientation
+ Orientation
 
 Use the `orientation` prop to change the Divider from horizontal to vertical. When using vertical orientation, the Divider renders a `<div>` with the corresponding accessibility attributes instead of `<hr>` to adhere to the WAI-ARIA [spec](https://www.w3.org/TR/wai-aria-1.2/##separator).
 
 {{"demo": "VerticalDividers.js", "bg": true}}
 
-## Flex item
+ Flex item
 
 Use the `flexItem` prop to display the Divider when it's being used in a flex container.
 
 {{"demo": "FlexDivider.js", "bg": true}}
 
-## With children
+ With children
 
 Use the `textAlign` prop to align elements that are wrapped by the Divider.
 
@@ -2099,13 +2099,13 @@ Use the `textAlign` prop to align elements that are wrapped by the Divider.
 
  Customization
 
-## Use with a List
+ Use with a List
 
 When using the Divider to separate items in a List, use the `component` prop to render it as an `<li>`—otherwise it won't be a valid HTML element.
 
 {{"demo": "ListDividers.js", "bg": true}}
 
-## Icon grouping
+ Icon grouping
 
 The demo below shows how to combine the props `variant="middle"` and `orientation="vertical"`.
 
@@ -2159,7 +2159,7 @@ It closes when an item is selected, handled by controlling the `open` prop.
 
 {{"demo": "TemporaryDrawer.js"}}
 
-## Anchor
+ Anchor
 
 Use the `anchor` prop to specify which side of the screen the Drawer should originate from.
 
@@ -2167,7 +2167,7 @@ The default value is `left`.
 
 {{"demo": "AnchorTemporaryDrawer.js"}}
 
-## Swipeable
+ Swipeable
 
 You can make the drawer swipeable with the `SwipeableDrawer` component.
 
@@ -2192,7 +2192,7 @@ const iOS =
 <SwipeableDrawer disableBackdropTransition={!iOS} disableDiscovery={iOS} />;
 ```
 
-## Swipeable edge
+ Swipeable edge
 
 You can configure the `SwipeableDrawer` to have a visible edge when closed.
 
@@ -2201,7 +2201,7 @@ If you are on mobile, you can open the demo in CodeSandbox ("edit" icon) and swi
 
 {{"demo": "SwipeableEdgeDrawer.js", "iframe": true, "disableLiveEdit": true, "height": 400, "maxWidth": 300}}
 
-## Keep mounted
+ Keep mounted
 
 The Modal used internally by the Swipeable Drawer has the `keepMounted` prop set by default.
 This means that the contents of the drawer are always present in the DOM.
@@ -2255,7 +2255,7 @@ Permanent navigation drawers are always visible and pinned to the left edge, at 
 
 Permanent navigation drawers are the **recommended default for desktop**.
 
-## Full-height navigation
+ Full-height navigation
 
 Apps focused on information consumption that use a left-to-right hierarchy.
 
@@ -2263,7 +2263,7 @@ Apps focused on information consumption that use a left-to-right hierarchy.
 
 {{"demo": "PermanentDrawerRight.js", "iframe": true}}
 
-## Clipped under the app bar
+ Clipped under the app bar
 
 Apps focused on productivity that require balance across the screen.
 
@@ -2271,7 +2271,7 @@ Apps focused on productivity that require balance across the screen.
 
  Toolpad (Beta)
 
-## Dashboard Layout
+ Dashboard Layout
 
 The [DashboardLayout](https://mui.com/toolpad/core/react-dashboard-layout/) component from `@toolpad/core` is the starting point for dashboarding applications. It takes care of application layout, theming, navigation, and more. An example usage of this component:
 
@@ -2348,7 +2348,7 @@ If you are **new to or unfamiliar with flexbox**, we encourage you to read this 
 
 Fluid grids use columns that scale and resize content. A fluid grid's layout can use breakpoints to determine if the layout needs to change dramatically.
 
-## Basic grid
+ Basic grid
 
 Column widths are integer values between 1 and 12; they apply at any breakpoint and indicate how many columns are occupied by the component.
 
@@ -2357,7 +2357,7 @@ For example, `xs={12}` sizes a component to occupy the full width of its parent 
 
 {{"demo": "BasicGrid.js", "bg": true}}
 
-## Grid with multiple breakpoints
+ Grid with multiple breakpoints
 
 Components may have multiple widths defined, causing the layout to change at the defined breakpoint. Width values given to larger breakpoints override those given to smaller breakpoints.
 
@@ -2373,7 +2373,7 @@ The prop is converted into a CSS property using the [`theme.spacing()`](/materia
 
 {{"demo": "SpacingGrid.js", "bg": true}}
 
-## Row & column spacing
+ Row & column spacing
 
 The `rowSpacing` and `columnSpacing` props allow for specifying the row and column gaps independently.
 It's similar to the `row-gap` and `column-gap` properties of [CSS Grid](/system/grid/##row-gap-amp-column-gap).
@@ -2421,7 +2421,7 @@ That also means you can set the width of one _item_ and the others will automati
 
 {{"demo": "AutoGrid.js", "bg": true}}
 
-## Variable width content
+ Variable width content
 
 Set one of the size breakpoint props to `"auto"` instead of `true` / a `number` to size
 a column based on the natural width of its content.
@@ -2462,11 +2462,11 @@ You can change the default number of columns (12) with the `columns` prop.
 
  Limitations
 
-## Negative margin
+ Negative margin
 
 The spacing between items is implemented with a negative margin. This might lead to unexpected behaviors. For instance, to apply a background color, you need to apply `display: flex;` to the parent.
 
-## white-space: nowrap
+ white-space: nowrap
 
 The initial setting on flex items is `min-width: auto`.
 This causes a positioning conflict when children use `white-space: nowrap;`.
@@ -2487,7 +2487,7 @@ In practice, you can set the `zeroMinWidth` prop:
 
 {{"demo": "AutoGridNoWrap.js", "bg": true}}
 
-## direction: column | column-reverse
+ direction: column | column-reverse
 
 The `xs`, `sm`, `md`, `lg`, and `xl` props are **not supported** within `direction="column"` and `direction="column-reverse"` containers.
 
@@ -2544,7 +2544,7 @@ If you need a data grid, check out [the MUI X `DataGrid` component](/x/react-da
 
 Fluid grids use columns that scale and resize content. A fluid grid's layout can use breakpoints to determine if the layout needs to change dramatically.
 
-## Basic grid
+ Basic grid
 
 In order to create a grid layout, you need a container.
 Use the `container` prop to create a grid container that wraps the grid items (the `Grid` is always an item).
@@ -2554,7 +2554,7 @@ For example, an item with `size={6}` occupies half of the grid container's width
 
 {{"demo": "BasicGrid.js", "bg": true}}
 
-## Multiple breakpoints
+ Multiple breakpoints
 
 Items may have multiple widths defined, causing the layout to change at the defined breakpoint.
 Width values apply to all wider breakpoints, and larger breakpoints override those given to smaller breakpoints.
@@ -2574,7 +2574,7 @@ The following demo illustrates the use of the `spacing` prop:
 
 {{"demo": "SpacingGrid.js", "bg": true, "hideToolbar": true}}
 
-## Row and column spacing
+ Row and column spacing
 
 The `rowSpacing` and `columnSpacing` props let you specify row and column gaps independently of one another.
 They behave similarly to the `row-gap` and `column-gap` properties of [CSS Grid](/system/grid/##row-gap-amp-column-gap).
@@ -2611,7 +2611,7 @@ When you set the width of one item, the others will automatically resize to matc
 
 {{"demo": "AutoGrid.js", "bg": true}}
 
-## Variable width content
+ Variable width content
 
 When a breakpoint's value is given as `"auto"`, then a column's size will automatically adjust to match the width of its content.
 The demo below shows how this works:
@@ -2636,13 +2636,13 @@ Note that a nested grid container should be a direct child of another grid conta
 
 :::
 
-## Inheriting spacing
+ Inheriting spacing
 
 A nested grid container inherits the row and column spacing from its parent unless the `spacing` prop is specified to the instance.
 
 {{"demo": "NestedGrid.js", "bg": true}}
 
-## Inheriting columns
+ Inheriting columns
 
 A nested grid container inherits the columns from its parent unless the `columns` prop is specified to the instance.
 
@@ -2703,7 +2703,7 @@ function Demo() {
 Custom breakpoints affect all [responsive values](##responsive-values).
 :::
 
-## TypeScript
+ TypeScript
 
 You have to set module augmentation on the theme breakpoints interface.
 
@@ -2727,7 +2727,7 @@ declare module '@mui/system' {
 
  Customization
 
-## Centered elements
+ Centered elements
 
 To center a grid item's content, specify `display="flex"` directly on the item.
 Then use `justifyContent` and/or `alignItems` to adjust the position of the content, as shown below:
@@ -2739,17 +2739,17 @@ Using the `container` prop does not work in this situation because the grid cont
 It cannot wrap other elements.
 :::
 
-## Full border
+ Full border
 
 {{"demo": "FullBorderedGrid.js"}}
 
-## Half border
+ Half border
 
 {{"demo": "HalfBorderedGrid.js"}}
 
  Limitations
 
-## Column direction and reversing
+ Column direction and reversing
 
 The `size` and `offset` props are _not_ supported within containers that use `direction="column"` or `direction="column-reverse"`.
 
@@ -2784,7 +2784,7 @@ Google has created over 2,100 official [Material icons](https://fonts.google.com
 For each SVG icon, we export the respective React component from the `@mui/icons-material` package.
 You can [search the full list of these icons](/material-ui/material-icons/).
 
-## Installation
+ Installation
 
 Run one of the following commands to install it and save it to your `package.json` dependencies:
 
@@ -2809,7 +2809,7 @@ These components use the Material UI `SvgIcon` component to render the SVG path
 
 If you aren't already using Material UI in your project, you can add it following the [installation guide](/material-ui/getting-started/installation/).
 
-## Usage
+ Usage
 
 Import icons using one of these two options:
 
@@ -2843,7 +2843,7 @@ The Material Design guidelines name the icons using "snake_case" naming (for exa
 
 {{"demo": "SvgMaterialIcons.js"}}
 
-## Testing
+ Testing
 
 For testing purposes, each icon exposed from `@mui/icons-material` has a `data-testid` attribute with the name of the icon. For instance:
 
@@ -2871,15 +2871,15 @@ This component extends the native `<svg>` element:
 
 {{"demo": "SvgIconChildren.js"}}
 
-## Color
+ Color
 
 {{"demo": "SvgIconsColor.js"}}
 
-## Size
+ Size
 
 {{"demo": "SvgIconsSize.js"}}
 
-## Component prop
+ Component prop
 
 You can use the `SvgIcon` wrapper even if your icons are saved in the `.svg` format.
 [svgr](https://github.com/gregberge/svgr) has loaders to import SVG files and use them as React components. For example, with webpack:
@@ -2912,7 +2912,7 @@ import { ReactComponent as StarIcon } from './star.svg';
 <SvgIcon component={StarIcon} inheritViewBox />
 ```
 
-## createSvgIcon
+ createSvgIcon
 
 The `createSvgIcon` utility component is used to create the [Material Icons](##material-icons). It can be used to wrap an `<svg>` element or an SVG path which is passed as a child to the [`SvgIcon`](##svgicon) component.
 
@@ -2940,7 +2940,7 @@ const PlusIcon = createSvgIcon(
 
 {{"demo": "CreateSvgIcon.js"}}
 
-## Font Awesome
+ Font Awesome
 
 If you find that there are layout issues when using FontAwesomeIcon from `@fortawesome/react-fontawesome`, you can try passing the Font Awesome SVG data directly to SvgIcon.
 
@@ -2950,7 +2950,7 @@ Below is a comparison of the `FontAwesomeIcon` component and a wrapped `SvgIcon`
 
 FontAwesomeIcon's `fullWidth` prop can also be used to approximate the correct dimensions, but it isn't perfect.
 
-## Other libraries
+ Other libraries
 
  MDI
 
@@ -2976,7 +2976,7 @@ import Icon from '@mui/material/Icon';
 By default, an Icon will inherit the current text color.
 Optionally, you can set the icon color using one of the theme color properties: `primary`, `secondary`, `action`, `error` & `disabled`.
 
-## Font Material Icons
+ Font Material Icons
 
 `Icon` will by default set the correct base class name for the Material Icons font (filled variant).
 All you need to do is load the font, for instance, via Google Web Fonts:
@@ -2990,7 +2990,7 @@ All you need to do is load the font, for instance, via Google Web Fonts:
 
 {{"demo": "Icons.js"}}
 
-## Custom font
+ Custom font
 
 For other fonts, you can customize the baseline class name using the `baseClassName` prop.
 For instance, you can display two-tone icons with Material Design:
@@ -3031,7 +3031,7 @@ Then, you can use the two-tone font directly:
 <Icon>add_circle</Icon>
 ```
 
-## Font Awesome
+ Font Awesome
 
 [Font Awesome](https://fontawesome.com/icons) can be used with the `Icon` component as follows:
 
@@ -3076,12 +3076,12 @@ There are two use cases you'll want to consider:
 - **Semantic icons** are ones that you're using to convey meaning, rather than just pure decoration.
   This includes icons without text next to them that are used as interactive controls — buttons, form elements, toggles, etc.
 
-## Decorative icons
+ Decorative icons
 
 If your icons are purely decorative, you're already done!
 The `aria-hidden=true` attribute is added so that your icons are properly accessible (invisible).
 
-## Semantic icons
+ Semantic icons
 
  Semantic SVG icons
 
@@ -3161,13 +3161,13 @@ The overlay can accommodate a `title`, `subtitle` and secondary action - in this
 
 {{"demo": "TitlebarImageList.js"}}
 
-## Title bar below image (standard)
+ Title bar below image (standard)
 
 The title bar can be placed below the image.
 
 {{"demo": "TitlebarBelowImageList.js"}}
 
-## Title bar below image (masonry)
+ Title bar below image (masonry)
 
 {{"demo": "TitlebarBelowMasonryImageList.js"}}
 
@@ -3228,12 +3228,12 @@ Here is a [more detailed guide](/material-ui/integrations/routing/##link).
 
 {{"demo": "ButtonLink.js"}}
 
-## Keyboard accessibility
+ Keyboard accessibility
 
 - Interactive elements should receive focus in a coherent order when the user presses the <kbd class="key">Tab</kbd> key.
 - Users should be able to open a link by pressing <kbd class="key">Enter</kbd>.
 
-## Screen reader accessibility
+ Screen reader accessibility
 
 - When a link receives focus, screen readers should announce a descriptive link name.
   If the link opens in a new window or browser tab, add an [`aria-label`](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA8) to inform screen reader users—for example, _"To learn more, visit the About page which opens in a new window."_
@@ -3307,7 +3307,7 @@ You should set the `alignItems="flex-start"` prop to align the avatar at the top
 
  List Controls
 
-## Checkbox
+ Checkbox
 
 A checkbox can either be a primary action or a secondary action.
 
@@ -3319,7 +3319,7 @@ The checkbox is the secondary action for the list item and a separate target.
 
 {{"demo": "CheckboxListSecondary.js", "bg": true}}
 
-## Switch
+ Switch
 
 The switch is the secondary action and a separate target.
 
@@ -3585,7 +3585,7 @@ Here is an example of a context menu. (Right click to open.)
 
 For more advanced use cases you might be able to take advantage of:
 
-## material-ui-popup-state
+ material-ui-popup-state
 
 ![stars](https://img.shields.io/github/stars/jcoreio/material-ui-popup-state?style=social&label=Star)
 ![npm downloads](https://img.shields.io/npm/dm/material-ui-popup-state.svg)
@@ -3679,7 +3679,7 @@ In order to display the modal, you need to disable the portal feature with the `
 
  Limitations
 
-## Focus trap
+ Focus trap
 
 The modal moves the focus back to the body of the component if the focus tries to escape it.
 
@@ -3798,12 +3798,12 @@ You can learn more about this use case in the [table section](/material-ui/react
 
  Accessibility
 
-## ARIA
+ ARIA
 
 The root node has a role of "navigation" and aria-label "pagination navigation" by default. The page items have an aria-label that identifies the purpose of the item ("go to first page", "go to previous page", "go to page 1" etc.).
 You can override these using the `getItemAriaLabel` prop.
 
-## Keyboard
+ Keyboard
 
 The pagination items are in tab order, with a tabindex of "0".
 
@@ -3835,7 +3835,7 @@ import Paper from '@mui/material/Paper';
 
  Customization
 
-## Elevation
+ Elevation
 
 Use the `elevation` prop to establish hierarchy through the use of shadows.
 The Paper component's default elevation level is `1`.
@@ -3852,13 +3852,13 @@ To override it, you must either use a new background value, or customize the val
 
 {{"demo": "Elevation.js", "bg": "outlined"}}
 
-## Variants
+ Variants
 
 Set the `variant` prop to `"outlined"` for a flat, outlined Paper with no shadows:
 
 {{"demo": "Variants.js", "bg": true}}
 
-## Corners
+ Corners
 
 The Paper component features rounded corners by default.
 Add the `square` prop for square corners:
@@ -3937,7 +3937,7 @@ This is different from virtual elements used for the [`Popper`](/material-ui/rea
 
 For more advanced use cases, you might be able to take advantage of:
 
-## material-ui-popup-state
+ material-ui-popup-state
 
 ![stars](https://img.shields.io/github/stars/jcoreio/material-ui-popup-state?style=social&label=Star)
 ![npm downloads](https://img.shields.io/npm/dm/material-ui-popup-state.svg)
@@ -4007,7 +4007,7 @@ Highlight part of the text to see the popper:
 
 For more advanced use cases you might be able to take advantage of:
 
-## material-ui-popup-state
+ material-ui-popup-state
 
 ![stars](https://img.shields.io/github/stars/jcoreio/material-ui-popup-state?style=social&label=Star)
 ![npm downloads](https://img.shields.io/npm/dm/material-ui-popup-state.svg)
@@ -4044,49 +4044,49 @@ The animations of the components rely on CSS as much as possible to work even be
 
  Circular
 
-## Circular indeterminate
+ Circular indeterminate
 
 {{"demo": "CircularIndeterminate.js"}}
 
-## Circular color
+ Circular color
 
 {{"demo": "CircularColor.js"}}
 
-## Circular size
+ Circular size
 
 {{"demo": "CircularSize.js"}}
 
-## Circular determinate
+ Circular determinate
 
 {{"demo": "CircularDeterminate.js"}}
 
-## Interactive integration
+ Interactive integration
 
 {{"demo": "CircularIntegration.js"}}
 
-## Circular with label
+ Circular with label
 
 {{"demo": "CircularWithValueLabel.js"}}
 
  Linear
 
-## Linear indeterminate
+ Linear indeterminate
 
 {{"demo": "LinearIndeterminate.js"}}
 
-## Linear color
+ Linear color
 
 {{"demo": "LinearColor.js"}}
 
-## Linear determinate
+ Linear determinate
 
 {{"demo": "LinearDeterminate.js"}}
 
-## Linear buffer
+ Linear buffer
 
 {{"demo": "LinearBuffer.js"}}
 
-## Linear with label
+ Linear with label
 
 {{"demo": "LinearWithValueLabel.js"}}
 
@@ -4129,7 +4129,7 @@ After 1.0 second, you can display a loader to keep user's flow of thought uninte
 
  Limitations
 
-## High CPU load
+ High CPU load
 
 Under heavy load, you might lose the stroke dash animation or see random `CircularProgress` ring widths.
 You should run processor intensive operations in a web worker or by batch in order not to block the main rendering thread.
@@ -4143,7 +4143,7 @@ See [this issue](https://github.com/mui/material-ui/issues/10327).
 
 {{"demo": "CircularUnderLoad.js"}}
 
-## High frequency updates
+ High frequency updates
 
 The `LinearProgress` uses a transition on the CSS transform property to provide a smooth update between different values.
 The default transition duration is 200ms.
@@ -4179,13 +4179,13 @@ Radio buttons should have the most commonly used option selected by default.
 
 {{"demo": "RadioButtonsGroup.js"}}
 
-## Direction
+ Direction
 
 To lay out the buttons horizontally, set the `row` prop:
 
 {{"demo": "RowRadioButtonsGroup.js"}}
 
-## Controlled
+ Controlled
 
 You can control the radio with the `value` and `onChange` props:
 
@@ -4232,7 +4232,7 @@ For advanced customization use cases, a `useRadioGroup()` hook is exposed.
 It returns the context value of the parent radio group.
 The Radio component uses this hook internally.
 
-## API
+ API
 
 ```jsx
 import { useRadioGroup } from '@mui/material/RadioGroup';
@@ -4334,11 +4334,11 @@ The accessibility of this component relies on:
 
 {{"demo": "TextRating.js"}}
 
-## ARIA
+ ARIA
 
 The read only rating has a role of "img", and an aria-label that describes the displayed rating.
 
-## Keyboard
+ Keyboard
 
 Because the rating component uses radio buttons, keyboard interaction follows the native browser behavior. Tab will focus the current rating, and cursor keys control the selected rating.
 
@@ -4379,11 +4379,11 @@ It shares the same styles and many of the same props. Refer to the respective co
 Unlike input components, the `placeholder` prop is not available in Select. To add a placeholder, refer to the [placeholder](##placeholder) section below.
 :::
 
-## Filled and standard variants
+ Filled and standard variants
 
 {{"demo": "SelectVariants.js"}}
 
-## Labels and helper text
+ Labels and helper text
 
 {{"demo": "SelectLabels.js"}}
 
@@ -4391,15 +4391,15 @@ Unlike input components, the `placeholder` prop is not available in Select. To a
 Note that when using FormControl with the outlined variant of the Select, you need to provide a label in two places: in the InputLabel component and in the `label` prop of the Select component (see the above demo).
 :::
 
-## Auto width
+ Auto width
 
 {{"demo": "SelectAutoWidth.js"}}
 
-## Small Size
+ Small Size
 
 {{"demo": "SelectSmall.js"}}
 
-## Other props
+ Other props
 
 {{"demo": "SelectOtherProps.js"}}
 
@@ -4435,23 +4435,23 @@ It's enabled with the `multiple` prop.
 
 Like with the single selection, you can pull out the new value by accessing `event.target.value` in the `onChange` callback. It's always an array.
 
-## Default
+ Default
 
 {{"demo": "MultipleSelect.js"}}
 
-## Checkmarks
+ Checkmarks
 
 {{"demo": "MultipleSelectCheckmarks.js"}}
 
-## Chip
+ Chip
 
 {{"demo": "MultipleSelectChip.js"}}
 
-## Placeholder
+ Placeholder
 
 {{"demo": "MultipleSelectPlaceholder.js"}}
 
-## Native
+ Native
 
 {{"demo": "MultipleSelectNative.js"}}
 
@@ -4620,11 +4620,11 @@ By default, the skeleton pulsates, but you can change the animation to a wave or
 
 {{"demo": "Animations.js"}}
 
-## Pulsate example
+ Pulsate example
 
 {{"demo": "YouTube.js", "defaultCodeOpen": false}}
 
-## Wave example
+ Wave example
 
 {{"demo": "Facebook.js", "defaultCodeOpen": false, "bg": true}}
 
@@ -4670,11 +4670,11 @@ Rather than showing an abstract widget, skeleton screens create anticipation of 
 
 The background color of the skeleton uses the least amount of luminance to be visible in good conditions (good ambient light, good screen, no visual impairments).
 
-## ARIA
+ ARIA
 
 None.
 
-## Keyboard
+ Keyboard
 
 The skeleton is not focusable.
 
@@ -4705,26 +4705,26 @@ You can generate a mark for each step with `marks={true}`.
 
 {{"demo": "DiscreteSlider.js"}}
 
-## Small steps
+ Small steps
 
 You can change the default step increment.
 Make sure to adjust the `shiftStep` prop (the granularity with which the slider can step when using Page Up/Down or Shift + Arrow Up/Down) to a value divadable with the `step`.
 
 {{"demo": "DiscreteSliderSteps.js"}}
 
-## Custom marks
+ Custom marks
 
 You can have custom marks by providing a rich array to the `marks` prop.
 
 {{"demo": "DiscreteSliderMarks.js"}}
 
-## Restricted values
+ Restricted values
 
 You can restrict the selectable values to those provided with the `marks` prop with `step={null}`.
 
 {{"demo": "DiscreteSliderValues.js"}}
 
-## Label always visible
+ Label always visible
 
 You can force the thumb label to be always visible with `valueLabelDisplay="on"`.
 
@@ -4736,7 +4736,7 @@ The slider can be used to set the start and end of a range by supplying an array
 
 {{"demo": "RangeSlider.js"}}
 
-## Minimum distance
+ Minimum distance
 
 You can enforce a minimum distance between values in the `onChange` event handler.
 By default, when you move the pointer over a thumb while dragging another thumb, the active thumb will swap to the hovered thumb. You can disable this behavior with the `disableSwap` prop.
@@ -4761,7 +4761,7 @@ You can learn more about this in the [overrides documentation page](/material-ui
 
 {{"demo": "CustomizedSlider.js"}}
 
-## Music player
+ Music player
 
 {{"demo": "MusicPlayerSlider.js", "bg": "inline"}}
 
@@ -4794,13 +4794,13 @@ You can customize your slider by adding and repositioning marks for minimum and 
 
 The track shows the range available for user selection.
 
-## Removed track
+ Removed track
 
 The track can be turned off with `track={false}`.
 
 {{"demo": "TrackFalseSlider.js"}}
 
-## Inverted track
+ Inverted track
 
 The track can be inverted with `track="inverted"`.
 
@@ -4844,7 +4844,7 @@ The demo below, inspired by Google Keep, shows a basic Snackbar with a text elem
 
 {{"demo": "SimpleSnackbar.js"}}
 
-## Usage
+ Usage
 
 Snackbars differ from [Alerts](/material-ui/react-alert/) in that Snackbars have a fixed position and a high z-index, so they're intended to break out of the document flow; Alerts, on the other hand, are usually part of the flow—except when they're [used as children of a Snackbar](##use-with-alerts).
 
@@ -4852,19 +4852,19 @@ Snackbars also from differ from [Dialogs](/material-ui/react-dialog/) in that Sn
 
  Basics
 
-## Import
+ Import
 
 ```jsx
 import Snackbar from '@mui/material/Snackbar';
 ```
 
-## Position
+ Position
 
 Use the `anchorOrigin` prop to control the Snackbar's position on the screen.
 
 {{"demo": "PositionedSnackbar.js"}}
 
-## Content
+ Content
 
 ```jsx
 import SnackbarContent from '@mui/material/SnackbarContent';
@@ -4874,7 +4874,7 @@ Use the Snackbar Content component to add text and actions to the Snackbar.
 
 {{"demo": "LongTextSnackbar.js"}}
 
-## Automatic dismiss
+ Automatic dismiss
 
 Use the `autoHideDuration` prop to automatically trigger the Snackbar's `onClose` function after a set period of time (in milliseconds).
 
@@ -4882,7 +4882,7 @@ Make sure to [provide sufficient time](https://www.w3.org/TR/UNDERSTANDING-WCAG2
 
 {{"demo": "AutohideSnackbar.js"}}
 
-## Transitions
+ Transitions
 
 You can use the `TransitionComponent` prop to change the transition of the Snackbar from [Grow](/material-ui/transitions/##grow) (the default) to others such as [Slide](/material-ui/transitions/##slide).
 
@@ -4890,13 +4890,13 @@ You can use the `TransitionComponent` prop to change the transition of the Snack
 
  Customization
 
-## Use with Alerts
+ Use with Alerts
 
 Use an Alert inside a Snackbar for messages that communicate a certain severity.
 
 {{"demo": "CustomizedSnackbars.js"}}
 
-## Use with Floating Action Buttons
+ Use with Floating Action Buttons
 
 If you're using a [Floating Action Button](/material-ui/react-floating-action-button/) on mobile, Material Design recommends positioning snackbars directly above it, as shown in the demo below:
 
@@ -4904,7 +4904,7 @@ If you're using a [Floating Action Button](/material-ui/react-floating-action-bu
 
  Common examples
 
-## Consecutive Snackbars
+ Consecutive Snackbars
 
 This demo shows how to display multiple Snackbars without stacking them by using a consecutive animation.
 
@@ -4912,7 +4912,7 @@ This demo shows how to display multiple Snackbars without stacking them by using
 
  Supplementary components
 
-## notistack
+ notistack
 
 ![stars](https://img.shields.io/github/stars/iamhosseindhv/notistack.svg?style=social&label=Star)
 ![npm downloads](https://img.shields.io/npm/dm/notistack.svg)
@@ -4966,7 +4966,7 @@ The Snackbar component is composed of a root `<div>` that houses interior elemen
 
  Experimental APIs - Toolpad
 
-## useNotifications
+ useNotifications
 
 You can create and manipulate notifications imperatively with the [`useNotifications()`](https://mui.com/toolpad/core/react-use-notifications/) API in `@toolpad/core`. This API provides state management for opening and closing snackbars. It also allows for queueing multiple notifications at once.
 
@@ -5018,7 +5018,7 @@ It is enabled here across all devices for demo purposes, but in production it co
 
  Accessibility
 
-## ARIA
+ ARIA
 
  Required
 
@@ -5031,7 +5031,7 @@ It is enabled here across all devices for demo purposes, but in production it co
 - The speed dial actions container has `role="menu"` and `aria-orientation` set according to the direction.
 - The speed dial actions have `role="menuitem"`, and an `aria-describedby` attribute that references the associated tooltip.
 
-## Keyboard
+ Keyboard
 
 - The speed dial opens on focus.
 - The Space and Enter keys trigger the selected speed dial action, and toggle the speed dial open state.
@@ -5066,7 +5066,7 @@ The spacing value can be any number, including decimals, or a string.
 
 {{"demo": "BasicStack.js", "bg": true}}
 
-## Stack vs. Grid
+ Stack vs. Grid
 
 `Stack` is concerned with one-dimensional layouts, while [Grid](/material-ui/react-grid/) handles two-dimensional layouts. The default direction is `column` which stacks children vertically.
 
@@ -5145,7 +5145,7 @@ System props are deprecated and will be removed in the next major release. Pleas
 
  Limitations
 
-## Margin on the children
+ Margin on the children
 
 Customizing the margin on the children is not supported by default.
 
@@ -5163,7 +5163,7 @@ To overcome this limitation, set [`useFlexGap`](##flexbox-gap) prop to true to s
 You can learn more about this limitation by visiting this [RFC](https://github.com/mui/material-ui/issues/33754).
 :::
 
-## white-space: nowrap
+ white-space: nowrap
 
 The initial setting on flex items is `min-width: auto`.
 This causes a positioning conflict when children use `white-space: nowrap;`.
@@ -5238,7 +5238,7 @@ Horizontal steppers are ideal when the contents of one step depend on an earlier
 
 Avoid using long step names in horizontal steppers.
 
-## Linear
+ Linear
 
 A linear stepper allows the user to complete the steps in sequence.
 
@@ -5248,7 +5248,7 @@ This example also shows the use of an optional step by placing the `optional` pr
 
 {{"demo": "HorizontalLinearStepper.js"}}
 
-## Non-linear
+ Non-linear
 
 Non-linear steppers allow the user to enter a multi-step flow at any point.
 
@@ -5260,17 +5260,17 @@ determine when all steps are completed (or even if they need to be completed).
 
 {{"demo": "HorizontalNonLinearStepper.js"}}
 
-## Alternative label
+ Alternative label
 
 Labels can be placed below the step icon by setting the `alternativeLabel` prop on the `Stepper` component.
 
 {{"demo": "HorizontalLinearAlternativeLabelStepper.js"}}
 
-## Error step
+ Error step
 
 {{"demo": "HorizontalStepperWithError.js"}}
 
-## Customized horizontal stepper
+ Customized horizontal stepper
 
 Here is an example of customizing the component.
 You can learn more about this in the [overrides documentation page](/material-ui/customization/how-to-customize/).
@@ -5283,7 +5283,7 @@ Vertical steppers are designed for narrow screen sizes. They are ideal for mobil
 
 {{"demo": "VerticalLinearStepper.js"}}
 
-## Performance
+ Performance
 
 The content of a step is unmounted when closed.
 If you need to make the content available to search engines or render expensive component trees inside your modal while optimizing for interaction responsiveness it might be a good idea to keep the step mounted with:
@@ -5298,19 +5298,19 @@ This component implements a compact stepper suitable for a mobile device. It has
 
 The mobile stepper supports three variants to display progress through the available steps: text, dots, and progress.
 
-## Text
+ Text
 
 The current step and total number of steps are displayed as text.
 
 {{"demo": "TextMobileStepper.js", "bg": true}}
 
-## Dots
+ Dots
 
 Use dots when the number of steps is small.
 
 {{"demo": "DotsMobileStepper.js", "bg": true}}
 
-## Progress
+ Progress
 
 Use a progress bar when there are many steps, or if there are steps that need to be inserted during the process (based on responses to earlier steps).
 
@@ -5460,7 +5460,7 @@ You can learn more about this in the [overrides documentation page](/material-ui
 
 {{"demo": "CustomizedTables.js", "bg": true}}
 
-## Custom pagination options
+ Custom pagination options
 
 It's possible to customize the options shown in the "Rows per page" select using the `rowsPerPageOptions` prop.
 You should either provide an array of:
@@ -5477,7 +5477,7 @@ You should either provide an array of:
   <TablePagination rowsPerPageOptions={[10, 50, { value: -1, label: 'All' }]} />
   ```
 
-## Custom pagination actions
+ Custom pagination actions
 
 The `ActionsComponent` prop of the `TablePagination` component allows the implementation of custom actions.
 
@@ -5528,7 +5528,7 @@ Virtualization helps with performance issues.
 
 (WAI tutorial: <https://www.w3.org/WAI/tutorials/tables/>)
 
-## Caption
+ Caption
 
 A caption functions like a heading for a table. Most screen readers announce the content of captions. Captions help users to find a table and understand what it's about and decide if they want to read it.
 
@@ -5595,13 +5595,13 @@ A tab can be disabled by setting the `disabled` prop.
 
 Fixed tabs should be used with a limited number of tabs, and when a consistent placement will aid muscle memory.
 
-## Full width
+ Full width
 
 The `variant="fullWidth"` prop should be used for smaller views.
 
 {{"demo": "FullWidthTabs.js", "bg": true}}
 
-## Centered
+ Centered
 
 The `centered` prop should be used for larger views.
 
@@ -5609,13 +5609,13 @@ The `centered` prop should be used for larger views.
 
  Scrollable tabs
 
-## Automatic scroll buttons
+ Automatic scroll buttons
 
 Use the `variant="scrollable"` and `scrollButtons="auto"` props to display left and right scroll buttons on desktop that are hidden on mobile:
 
 {{"demo": "ScrollableTabsButtonAuto.js", "bg": true}}
 
-## Forced scroll buttons
+ Forced scroll buttons
 
 Apply `scrollButtons={true}` and the `allowScrollButtonsMobile` prop to display the left and right scroll buttons on all viewports:
 
@@ -5631,7 +5631,7 @@ If you want to make sure the buttons are always visible, you should customize th
 
 {{"demo": "ScrollableTabsButtonVisible.js", "bg": true}}
 
-## Prevent scroll buttons
+ Prevent scroll buttons
 
 Left and right scroll buttons are never be presented with `scrollButtons={false}`.
 All scrolling must be initiated through user agent scrolling mechanisms (for example left/right swipe, shift mouse wheel, etc.)
@@ -5661,7 +5661,7 @@ By default, tabs use a `button` element, but you can provide your custom tag or 
 
 {{"demo": "NavTabs.js"}}
 
-## Third-party routing library
+ Third-party routing library
 
 One frequent use case is to perform navigation on the client only, without an HTTP round-trip to the server.
 The `Tab` component provides the `component` prop to handle this use case.
@@ -5694,7 +5694,7 @@ The following steps are needed in order to provide necessary information for ass
 An example for the current implementation can be found in the demos on this page. We've also published [an experimental API](##experimental-api) in `@mui/lab` that does not require
 extra work.
 
-## Keyboard navigation
+ Keyboard navigation
 
 The components implement keyboard navigation using the "manual activation" behavior.
 If you want to switch to the "selection automatically follows focus" behavior you have to pass `selectionFollowsFocus` to the `Tabs` component.
@@ -5773,7 +5773,7 @@ There are multiple ways to display an icon with a text field.
 
 {{"demo": "InputWithIcon.js"}}
 
-## Input Adornments
+ Input Adornments
 
 The main way is with an `InputAdornment`.
 This can be used to add a prefix, a suffix, or an action to an input.
@@ -5858,11 +5858,11 @@ The `color` prop changes the highlight color of the text field when focused.
 Here are some examples of customizing the component.
 You can learn more about this in the [overrides documentation page](/material-ui/customization/how-to-customize/).
 
-## Using the styled API
+ Using the styled API
 
 {{"demo": "CustomizedInputsStyled.js"}}
 
-## Using the theme style overrides API
+ Using the theme style overrides API
 
 Use the `styleOverrides` key to change any style injected by Material UI into the DOM.
 See the [theme style overrides](/material-ui/customization/theme-components/##theme-style-overrides) documentation for further details.
@@ -5949,7 +5949,7 @@ export default function App() {
 
  Limitations
 
-## Shrink
+ Shrink
 
 The input label "shrink" state isn't always correct.
 The input label is supposed to shrink as soon as the input is displaying something.
@@ -5969,13 +5969,13 @@ or
 <InputLabel shrink>Count</InputLabel>
 ```
 
-## Floating label
+ Floating label
 
 The floating label is absolutely positioned.
 It won't impact the layout of the page.
 Make sure that the input is larger than the label to display correctly.
 
-## type="number"
+ type="number"
 
 :::warning
 We do not recommend using `type="number"` with a Text Field due to potential usability issues:
@@ -5990,7 +5990,7 @@ If you need a text field with number validation, you can use MUI Base's [Number
 
 You can follow [this GitHub issue](https://github.com/mui/material-ui/issues/19154) to track the progress of introducing the Number Input component to Material UI.
 
-## Helper text
+ Helper text
 
 The helper text prop affects the height of the text field. If two text fields are placed side by side, one with a helper text and one without, they will have different heights. For example:
 
@@ -6162,15 +6162,15 @@ A Timeline centers itself in the container by default.
 
 The demos below show how to adjust the relative width of the left and right sides of a Timeline:
 
-## Left-aligned
+ Left-aligned
 
 {{"demo": "LeftAlignedTimeline.js"}}
 
-## Right-aligned
+ Right-aligned
 
 {{"demo": "RightAlignedTimeline.js"}}
 
-## Left-aligned with no opposite content
+ Left-aligned with no opposite content
 
 {{"demo": "NoOppositeContent.js"}}
 
@@ -6253,12 +6253,12 @@ You can learn more about this in the [overrides documentation page](/material-ui
 
  Accessibility
 
-## ARIA
+ ARIA
 
 - ToggleButtonGroup has `role="group"`. You should provide an accessible label with `aria-label="label"`, `aria-labelledby="id"` or `<label>`.
 - ToggleButton sets `aria-pressed="<bool>"` according to the button state. You should label each button with `aria-label`.
 
-## Keyboard
+ Keyboard
 
 At present, toggle buttons are in DOM order. Navigate between them with the tab key. The button behavior follows standard keyboard semantics.
 
@@ -6523,7 +6523,7 @@ Similarly, the `unmountOnExit` prop removes the component from the DOM after it 
 
 {{"demo": "SimpleSlide.js", "bg": true}}
 
-## Slide relative to a container
+ Slide relative to a container
 
 The Slide component also accepts `container` prop, which is a reference to a DOM node.
 If this prop is set, the Slide component will slide from the edge of that DOM node.
@@ -6647,7 +6647,7 @@ import '@fontsource/roboto/700.css';
 Fontsource can be configured to load specific subsets, weights, and styles. Material UI's default typography configuration relies only on the 300, 400, 500, and 700 font weights.
 :::
 
-## Google Web Fonts
+ Google Web Fonts
 
 To install Roboto through the Google Web Fonts CDN, add the following code inside your project's `<head />` tag:
 
@@ -6662,13 +6662,13 @@ To install Roboto through the Google Web Fonts CDN, add the following code insid
 
  Component
 
-## Usage
+ Usage
 
 The Typography component follows the [Material Design typographic scale](https://m2.material.io/design/typography/##type-scale) that provides a limited set of type sizes that work well together for a consistent layout.
 
 {{"demo": "Types.js"}}
 
-## Theme keys
+ Theme keys
 
 In some situations you might not be able to use the Typography component.
 Hopefully, you might be able to take advantage of the [`typography`](/material-ui/customization/default-theme/?expand-path=$.typography) keys of the theme.
@@ -6677,11 +6677,11 @@ Hopefully, you might be able to take advantage of the [`typography`](/material-u
 
  Customization
 
-## Adding & disabling variants
+ Adding & disabling variants
 
 In addition to using the default typography variants, you can add custom ones, or disable any you don't need. See the [Adding & disabling variants](/material-ui/customization/typography/##adding-amp-disabling-variants) page for more info.
 
-## Changing the semantic element
+ Changing the semantic element
 
 The Typography component uses the `variantMapping` prop to associate a UI variant with a semantic element.
 It's important to realize that the style of a typography component is independent from the semantic underlying element.
@@ -6719,7 +6719,7 @@ const theme = createTheme({
 });
 ```
 
-## System props
+ System props
 
 :::info
 System props are deprecated and will be removed in the next major release. Please use the `sx` prop instead.
@@ -6931,7 +6931,7 @@ You can reproduce the same behavior with a `useWidth` hook:
 
  API
 
-## `useMediaQuery(query, [options]) => matches`
+ `useMediaQuery(query, [options]) => matches`
 
  Arguments
 
