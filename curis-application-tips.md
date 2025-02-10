@@ -1,7 +1,8 @@
 # CURIS Application Tips
 
 ## Advice
-- Apply to a lot of projects -- The matching algorithm is such that applying to more will never hurt you. Sometimes projects may already have students matched to them through other programs/current RAs, so every project you are applying to isn't always available. I applied to 8.
+- Tailoring the statement to the position that is listed -- this includes discussing why you are excited about the project, relevant background, and skills that match the listing. 
+- Apply to a lot of projects -- The matching algorithm is such that applying to more will never hurt you. Sometimes projects may already have students matched to them through other programs/current RAs, so every project you are applying to isn't always available.
 - Mention experiences that are relevant to the project, especially important if they are asking for specific skillsets/tools you should mention those in the application.
 - Attend office hours with questions or email project mentors to express their interest.
 - Authentic curiosity and good communication are more important to me than technical strength.
