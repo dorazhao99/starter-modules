@@ -514,7 +514,7 @@ This project involves both technical development and field experiment design. A 
 (1) Experiences with data science skills, such us collecting and analyzing data from social media APIs using Python.
 (2) Experiences with LLM-based applications and evaluating machine learning models.
 Office Hours
-Wed 2/059:30am-10:30am, CoDa E316
+Wed 2/05 9:30am-10:30am, CoDa E316
 Wed 2/12 9:30am-10:30am, CoDa E316
 
 
