@@ -11,7 +11,7 @@
 - Try to combine both a sense of curiosity and emphasize relevant background. I found it important to show a desire to learn but also include prior coursework, professional experiences, etc.
 - Sometimes I think it helped to show non-CS involvements. Especially when it came to interdisciplinary projects, talking about experiences outside of CS helped me communicate the fact that I had relevant experience in skills ranging from visual design to conducting literature reviews. Overall, I think that helped further demonstrate the types of contributions I could make
 
-## Example Essay Structure
+## Example Staement of Interest Structure
 ### Example 1
 - General information about myself not included in the default CURIS profile
 - Select paragraph based on the type of project
