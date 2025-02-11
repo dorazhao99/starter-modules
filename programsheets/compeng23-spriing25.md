@@ -22,7 +22,7 @@ Students can use any program sheet starting the year they matriculated into Stan
 
 
 ### Technology in Society
-- 1 course required from the Approved Tech in Society list
+- 1 course required from the Approved Tech in Society list: AA 252, ANTHRO 132C, CSRE 132C, ARCHLGY 151, CLASSICS 151, BIOE 131, BIOE 177, DESIGN 259, CEE 102A, CEE 145E, CLASSICS 168, ARCHLGY 168, COMM 120W, COMM 166, CS 125, CS 139, CS 152, CS 181, CS 182, CS 182W, CS 256, CS 278, DATASCI 154, EARTHSYS 125, ENGR 117, ENGR 145, ENGR 148, ENGR 248, ENERGY 177A, ENERGY 177B, EPS 194, EPS 204, HUMBIO 174, MSE 179, MSE 193, NBIO 101, POLISCI 114S, PUBLPOL 114, PUBLPOL 134, STS 1, STS 115, STS 200J
 
 ### Engineering Fundamentals (10 units minimum)
 - CS 106B
