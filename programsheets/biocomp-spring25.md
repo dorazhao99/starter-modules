@@ -50,7 +50,6 @@ Students can use any program sheet starting the year they matriculated into Stan
 - One course: At least 3 units of CS 191, CS 191W, CS 194, CS 194H, CS 194W, CS 210B, or CS 294
 
 ## Spring Courses
-(base) dorothyz@sc:/nlp/u/dorothyz/make_modules$ python create_programsheets.py 
 ### MATH 20: Calculus
 -  covers the fundamentals of integral calculus, including the definite integral, integration techniques, and applications to area, volume, and differential equations. It also introduces parametric curves, exponential and logistic models, and direction fields, building on a prerequisite of prior calculus knowledge. Students highly praise Professor Zachary Wickham for his clear and engaging teaching style, and many recommend taking the course with him. The course is considered well-taught and thorough, but also challenging and time-consuming, with many advising students to attend office hours and keep up with practice problems to succeed. Overall, the instructor and TAs, particularly Mark, receive high praise for their availability and helpfulness in supporting student learning. Hours spent: 11.85 Average Rating: 3.9 3 units Monday/Wednesday/Friday 10:30:00 AM-11:20:00 AM 
 ### MATH 21: Calculus
