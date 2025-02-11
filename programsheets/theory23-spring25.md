@@ -29,7 +29,7 @@ Students can use any program sheet starting the year they matriculated into Stan
 - ENGR 40M or ENGR 76
 
 
-### AI Track Core, Depth, and Senior Project
+### Track Core, Depth, and Senior Project
 #### Core (15 units)
 - CS 107 or CS 107E
 - CS 111
