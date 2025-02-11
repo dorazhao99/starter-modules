@@ -2,7 +2,7 @@
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
-| Description | Requirements for undergrads majoring in CS at Stanford on the AI track |
+| Description | Requirements for undergrads majoring in CS at Stanford on the HCI track |
 
 Students can use any program sheet starting the year they matriculated into Stanford. This sheet is valid for any student matriculating in 2023-2024. 
 
@@ -36,14 +36,12 @@ Students can use any program sheet starting the year they matriculated into Stan
 - CS 161
 
 #### Depth; Track and Electives (25 units and seven courses minimum)
-- CS 147
-- CS 247 (any suffix)
-- CS 347
-- CS 142 or CS 147L
-- Course from HCI Mezzanine (CS 177, 278, or 448B)
-- Elective from HCI Mezzanine (CS 177, 278, or 448B) or Track Elective (CS 177, CS 194H, CS 206, CS 210A, CS 247 (any suffix not satisfying Track Req A), CS 377 (any suffix for three or more units))
-- Elective from HCI Mezzanine, Track Elective, or General CS Elective
-- Optional elective from Track Electives or General CS Electives
+- Track Requirement A: CS 147 and CS 247 (any suffix) and CS 347
+- Track Requirement B: CS 142 or CS 147L
+- Track Requirement C: Course from HCI Mezzanine (CS 177, 278, or 448B)
+- Track Electives 1: Course from HCI Mezzanine (CS 177, 278, or 448B) or from Track Elective (CS 177, CS 194H, CS 206, CS 210A, CS 247 (any suffix not satisfying Track Req A), CS 377 (any suffix for three or more units))
+- Track Elective 2: Course from HCI Mezzanine, Track Elective, or General CS Elective
+- Optional Elective: Course from Track Electives or General CS Electives
 
 ##### Course Info
 - General CS Electives: 
