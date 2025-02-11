@@ -1,3 +1,58 @@
+# Stanford CS AI Program Sheet 23-24 (Spring 2025)
+## Details 
+|  Key | Value|
+| ------------- | ------------- |
+| Description | Requirements for undergrads majoring in CS at Stanford on the AI track |
+
+Students can use any program sheet starting the year they matriculated into Stanford. This sheet is valid for any student matriculating in 2023-2024. 
+
+## Requirements
+### Mathematics and Science 
+#### Mathematics (26 units minimum)
+- MATH 19
+- MATH 20
+- MATH 21
+- CS 103: Mathematical Foundations of Computing
+- CS 109: Introduction to Probabiity for Computer Scientists
+- Two electives: MATH 51, MATH 52, MATH 53, MATH 104, MATH 107, MATH 108, MATH 109, MATH 110, MATH 113, CS 157, CS 205L, PHIL 151, CME 100, CME 102, CME 104, ENGR 109. CS 157 + PHIL 151 cannot be used in combination to satisfy the Math electives requirement. Math 51 + CME 100 counts only as 8 units.
+#### Science (11 units minimum)
+- PHYSICS 41 or PHYSICS 21 or PHYSICS 61
+- PHYSICS 43 or PHYSICS 23 or PHYSICS 81/63
+- One elective: any course of 3 or more units from the School of Engineering Science List, PSYCH 30, or AP Chemistry
+
+
+### Technology in Society
+- 1 course required from the Approved Tech in Society list
+
+### Engineering Fundamentals (10 units minimum)
+- CS 106B
+- ENGR 40M or ENGR 76
+
+
+### AI Track Core, Depth, and Senior Project
+#### Core (15 units)
+- CS 107 or CS 107E
+- CS 111
+- CS 161
+
+#### Depth; Track and Electives (25 units and seven courses minimum)
+- CS 147
+- CS 247 (any suffix)
+- CS 347
+- CS 142 or CS 147L
+- Course from HCI Mezzanine (CS 177, 278, or 448B)
+- Elective from HCI Mezzanine (CS 177, 278, or 448B) or Track Elective (CS 177, CS 194H, CS 206, CS 210A, CS 247 (any suffix not satisfying Track Req A), CS 377 (any suffix for three or more units))
+- Elective from HCI Mezzanine, Track Elective, or General CS Elective
+- Optional elective from Track Electives or General CS Electives
+
+##### Course Info
+- General CS Electives: 
+CS 108, 112, 123, 124, 131, 140E, 142, 143, 144, 145, 147, 147L, 148, 149, 151, 154, 155, 157 (or PHIL 151), 163, 166, 168, 173A, 177, 190, 195 (max 4 units), 197, 197C, 205L, 206, 210A, 212, 217, 221, 223A, 224N, 224R, 224S, 224U, 224V, 224W, 225A, 227B, 228, 229, 229M, 230, 231A, 231N, 232, 233, 234, 235, 237A, 237B, 238, 240, 240LX, 242, 243, 244, 244B, 245, 246, 247 (any suffix), 248 (any suffix), CS249I, 250, 251, 252, 253, 254, 254B, 255, 256, 257, 259Q, 261, 263, 265, 269I, 269O, 269Q, 270, 271, 272, 273B, 273C, 274, 275, 276, 278, 279, 281, 330, 333, 336, 342, 348 (any suffix), 351, 368, 398, 448B; CME 108; EE 180, 267, 282, 364A, 374; MS&E 234
+- Students can replace one track elective with one of the following courses: 'ARTSINST 142, ARTSTUDI 130, ARTSTUDI 160, ARTSTUDI 168, ARTSTUDI 179, ENGLISH 106, ENGLISH 106A, ENGLISH 115, ENGLISH 122, ENGLISH 184C, ENGLISH 184D, ENGLISH 184E, PHIL 60, PHIL 72, PHIL 99, PHIL 170, PHIL 171, PHIL 174B, HISTORY 44, HISTORY 244F, ARCHLGY 86, ARCHLGY 104, ANTHRO 132C, ANTHRO 132D, COMM 120W, COMM 124, COMM 145, COMM 154, COMM 158, COMM 166, COMM 186W, COMM 230A, COMM 230B, COMM 230C, SOC 114, SOC 124, CS 80Q, CS 152, CS 181, CS 182, CS 184, CS 206, CS 209, SYMSYS 208, PSYCH 35, PSYCH 70, PSYCH 75, PSYCH 80, PSYCH 141, PSYCH 175, PSYCH 180, PSYCH 215, PSYCH 204A, PSYCH 204B, PSYCH 241, EARTHSYS 140, EARTHSYS 144, EARTHSYS 162, EARTHSYS 227, ENERGY 112, ENERGY 160, ESS 109, GEOPHYS 128, GEOPHYS 228, SUST 210, ETHICSOC 131X, ETHICSOC 187, ETHICSOC 234R, DESINST 215, DESINST 240, DESINST 285, AMSTUD 120, AMSTUD 133, AMSTUD 145, POLYSCI 150A, PUBLPOL 63Q, PUBLPOL 103F, MS&E 231, MS&E 234, MS&E 254, LINGUIST 130A, LINGUIST 145, LINGUIST 150, LINGUIST 156'
+
+#### Senior Project (1 course required)
+- One course: At least 3 units of CS 191, CS 191W, CS 194, CS 194H, CS 194W, CS 210B, or CS 294
+
 ## Spring Courses
 ### MATH 20: Calculus
 This course covers the fundamentals of integral calculus, including the definite integral, integration techniques, and applications to area, volume, and differential equations. It also introduces parametric curves, exponential and logistic models, and direction fields, building on a prerequisite of prior calculus knowledge. Students highly praise Professor Zachary Wickham for his clear and engaging teaching style, and many recommend taking the course with him. The course is considered well-taught and thorough, but also challenging and time-consuming, with many advising students to attend office hours and keep up with practice problems to succeed. Overall, the instructor and TAs, particularly Mark, receive high praise for their availability and helpfulness in supporting student learning. Hours spent: 11.85 Average Rating: 3.9 3 units Monday/Wednesday/Friday 10:30:00 AM-11:20:00 AM 
