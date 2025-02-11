@@ -1,4 +1,4 @@
-# Stanford CS AI Program Sheet 23-24 (Spring 2025)
+# Stanford CS HCI Program Sheet 23-24 (Spring 2025)
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
