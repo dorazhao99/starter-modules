@@ -5,6 +5,7 @@
 | Description | Requirements for undergrads majoring in CS at Stanford on the HCI track |
 
 Students can use any program sheet starting the year they matriculated into Stanford. This sheet is valid for any student matriculating in 2023-2024. 
+Not all courses on the program sheet are offered every quarter. 
 
 ## Requirements
 ### Mathematics and Science 
