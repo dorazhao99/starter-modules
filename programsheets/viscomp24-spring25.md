@@ -2,7 +2,7 @@
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
-| Description | Requirements for undergrads majoring in CS at Stanford on the Computer Engineering track |
+| Description | Requirements for undergrads majoring in CS at Stanford on the Visual Computing track |
 
 Students can use any program sheet starting the year they matriculated into Stanford. This sheet is valid for any student matriculating in 2023-2024. 
 
