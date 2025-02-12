@@ -2,7 +2,7 @@
 
 ## Advice
 - Tailoring the statement to the position that is listed -- this includes discussing why you are excited about the project, relevant background, and skills that match the listing. 
-- Apply to a lot of projects -- The matching algorithm is such that applying to more will never hurt you. Sometimes projects may already have students matched to them through other programs/current RAs, so every project you are applying to isn't always available.
+- Apply to a lot of projects -- The matching algorithm is such that applying to more will never hurt you. Sometimes projects may already have students matched to them through other programs/current RAs, so every project you are applying to isn't always available. 
 - Mention experiences that are relevant to the project, especially important if they are asking for specific skillsets/tools you should mention those in the application.
 - Attend office hours with questions or email project mentors to express their interest.
 - Authentic curiosity and good communication are more important to me than technical strength.
@@ -33,5 +33,10 @@ petitioning for the KOSA bill (Kids Online Safety Act) for congress.
 Additionally, one of my goals as a computer science student is to research and build technologies that aim to make daily life easier.
 However, even well-intentioned innovations can cause significant indirect harm. As a result, I find the project very aligned with my interests and what
 I consider to be my greatest priorities. I've been involved with the Wonks and Techies talks about Tech Ethics and Policy,
-and I would be truly excited by the prospect of combining several of my interests through this project. 
+and I would be truly excited by the prospect of combining several of my interests through this project.
+```
+
+Example statement of interest for project focused on EdTech:
+```
+Ever since taking CS 109 with Chris Piech, I've been fascinated by the use of AI in education. My coursework has allowed me to engage with computer science and education in varied and interdisciplinary contexts. My computer science major has exposed me to a variety of topics such as algorithms, data structures, machine learning/artificial intelligence, and big data. Yet on the other end, I've been working as a tutor ever since my freshman year of high school. My interest in education has stemmed from tutoring students as part of an art therapy program and holding a part-time job at Kumon. I'm fascinated by how education is impacted by AI and currently working on a project regarding assessing original essay writing in classrooms. I would truly be enriched by working on this project through CURIS over the summer as I branch together my interests in education and computer science. 
 ```
