@@ -12,7 +12,8 @@
 - Try to combine both a sense of curiosity and emphasize relevant background. I found it important to show a desire to learn but also include prior coursework, professional experiences, etc.
 - Sometimes I think it helped to show non-CS involvements. Especially when it came to interdisciplinary projects, talking about experiences outside of CS helped me communicate the fact that I had relevant experience in skills ranging from visual design to conducting literature reviews. Overall, I think that helped further demonstrate the types of contributions I could make
 
-## Example Staement of Interest Structure
+## Example Statement of Interest Structure
+The statement of interest should be 1 paragraph long describing your interests and qualifications for a project.
 ### Example 1
 - General information about myself not included in the default CURIS profile
 - Select paragraph based on the type of project
@@ -24,7 +25,7 @@
 - Select paragraph based on the type of project
 - Bullet points about relevant experience and background knowledge
 
-Example paragraph showing connection between background and project interests on tech ethics and HCI: 
+Example statement of interest for project focused on tech ethics: 
 ```
 I am a computer science student with a deep-rooted interest in tech ethics and the relationship between young people and social media.
 I've been involved in Lookup Live, an NGO working toward youth mental health in the digital age, where I was named a Social Innovator Fellow and worked on
