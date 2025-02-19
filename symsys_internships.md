@@ -4,6 +4,7 @@
 | ------------- | ------------- |
 | Description | Details for summer internships through the SymSys program |
 
+SymSys and Symbolic Systems refer to the same thing at Stanford.
 These are list of internships offered through the Symbolic Systems / SymSys program at Stanford. 
 
 ## Computational theories of human visual abstraction
