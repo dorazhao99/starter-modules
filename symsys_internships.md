@@ -2,7 +2,9 @@
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
-| Description | Details for summer internships through the Symbolic Systems program |
+| Description | Details for summer internships through the Symbolic Systems or SymSys program |
+
+These are list of summer internships for the Symbolic Systems / SymSys program at Stanford. 
 
 ## Computational theories of human visual abstraction
 Contact: jefan@stanford.edu
