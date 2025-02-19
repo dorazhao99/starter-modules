@@ -1,10 +1,10 @@
-# Symbolic Systerms Summer Internships 2025
+# SymSys (Symbolic Systems) Summer Internships 2025
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
-| Description | Details for summer internships through the Symbolic Systems or SymSys program |
+| Description | Details for summer internships through the SymSys program |
 
-These are list of summer internships for the Symbolic Systems / SymSys program at Stanford. 
+These are list of internships offered through the Symbolic Systems / SymSys program at Stanford. 
 
 ## Computational theories of human visual abstraction
 Contact: jefan@stanford.edu
