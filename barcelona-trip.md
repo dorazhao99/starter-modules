@@ -1,11 +1,8 @@
 # Barcelona Trip Planning
 
 ## Dates
-March 22-26, 2025 (3 full days in the city before going to Madrid) 
+March 29-April 5, 2025 (3 full days in Barcelona before taking the train to Madrid) 
 
-## Planned Activities
-- Real Madrid vs Barcelona Femeni on March 23
-  
 ## Group Interests
 - shopping (vintage shopping, markets)
 - cocktail bars
