@@ -31,7 +31,7 @@ Three courses, with each course chosen from a different Breadth area A, B, C or 
 
 - Area D. People and Society: CS 147, 148, 152, 181/W, 182/W, 194H, 206, 247 (any suffix), 256, 269I, 278, 281, 324H, 329T, 329X, 347, 377 (any suffix), 384, 448B; AMSTUD 145; ANTHRO 132C, 132D; COMM 254, 266, 286, 324; DESIGN 255; EARTHSYS 213; EDUC 315A; ENGLISH 184D, HISTORY 244F; INTLPOL 268; LAW 4039; ME 177; MS&E 193, 231, 234, 254; POLISCI 150A; PUBLPOL 103F for 3 units, 353B
 
-### AI Depth
+### BioComp Depth
 All depth courses must be taken for a letter grade* for 3 or more units. A maximum of 6 units of CS 399 Independent Study may be counted towards the depth. Any deviations from the stated requirements must be noted and approved by your advisor in the Advisor Notes box provided (maximum of one advisor-approved deviation allowed). Courses taken for your Stanford undergraduate degree should be listed for 0 units. Enter course selection in the table below:
 	
 - CS 173A (students with equivalent coursework may waive with the approval of their advisor)
