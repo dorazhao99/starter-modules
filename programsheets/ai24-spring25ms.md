@@ -1,4 +1,4 @@
-# Stanford MSCS AI Program Sheet 23-24 (Spring 2025)
+# Stanford MSCS AI Program Sheet 24-25 (Spring 2025)
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
