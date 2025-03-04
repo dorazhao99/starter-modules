@@ -1,8 +1,8 @@
-# Stanford MSCS AI Program Sheet 24-25 (Spring 2025)
+# Stanford MSCS Theory Program Sheet 24-25 (Spring 2025)
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
-| Description | Requirements for Master's students majoring in CS at Stanford on the AI track |
+| Description | Requirements for Master's students majoring in CS at Stanford on the Theory track |
 
 Students can use any program sheet starting the year they matriculated into Stanford. This sheet is valid for any student matriculating in 2024-2025. 
 
