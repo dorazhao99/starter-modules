@@ -1,4 +1,4 @@
-# Stanford MSCS Information Management and Analytics Program Sheet 23-24 (Spring 2025)
+# Stanford MSCS Information Management and Analytics Program Sheet 24-25 (Spring 2025)
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
