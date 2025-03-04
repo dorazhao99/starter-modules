@@ -1,4 +1,4 @@
-# Stanford MSCS Computer Engineering Program Sheet 24-25 (Spring 2025)
+# Stanford MSCS HCI Program Sheet 24-25 (Spring 2025)
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
